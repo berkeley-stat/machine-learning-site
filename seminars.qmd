@@ -1,0 +1,15 @@
+---
+title: Seminars
+---
+
+ - [The Neyman Seminar at the Statistics Department](https://statistics.berkeley.edu/research/seminars/neyman)
+
+<!-- none of these seminar pages exist
+
+ - [The Statistics Department Colloquium](http://www.stat.berkeley.edu/~nkaroui/Colloquium/StatisticsColloquiumFall05.htm)
+
+ - [Center for Intelligent Systems Seminar (Learning, vision, robotics)](http://www.cs.berkeley.edu/~taskar/cis-seminar/)
+
+ - [Signal processing/communication/networking seminar](http://www-networking.eecs.berkeley.edu/Seminar/)
+
+-->

@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  site-url: https://berkeley-stat.github.io/ml-website
+  sidebar:
+    style: docked
+    title: "Statistical Machine Learning"
+    #logo: assets/stat_bear.png
+    contents:
+      - href: index.qmd
+      - href: people.qmd
+      - href: research.qmd
+      - href: publications.qmd
+      - href: seminars.qmd
+      - href: software.qmd
+format:
+  html:
+    theme: cosmo
+    toc: true

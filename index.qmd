@@ -1,0 +1,45 @@
+---
+title: Research Statement
+---
+
+## Faculty
+
+::: {layout-ncol=5}
+[![P. Bartlett](images/Bartlett_tbnail.jpg)](http://www.eecs.berkeley.edu/~bartlett/)
+
+[![P. Bickel](images/Bickel_tbnail.jpg)](http://www.stat.berkeley.edu/~bickel)
+
+[![M. Jordan](images/Jordan_tbnail.jpg)](http://www.cs.berkeley.edu/~jordan/)
+
+[![M. Wainwright](images/Wainwright_tbnail.jpg)](http://www.eecs.berkeley.edu/~wainwrig/)
+
+[![B. Yu](images/Yu_tbnail.jpg)](https://binyu.stat.berkeley.edu)
+:::
+
+
+## Research Statement
+
+Statistical machine learning merges statistics with the computational sciences
+-- computer science, systems science and optimization. Much of the agenda in
+statistical machine learning is driven by applied problems in science and
+technology, where data streams are increasingly large-scale, dynamical and
+heterogeneous, and where mathematical and algorithmic creativity are required
+to bring statistical methodology to bear. Fields such as bioinformatics,
+artificial intelligence, signal processing, communications, networking,
+information management, finance, game theory and control theory are all being
+heavily influenced by developments in statistical machine learning.
+
+The field of statistical machine learning also poses some of the most
+challenging theoretical problems in modern statistics, chief among them being
+the general problem of understanding the link between inference and
+computation.
+
+Research in statistical machine learning at Berkeley builds on Berkeley's
+world-class strengths in probability, mathematical statistics, computer science
+and systems science. Moreover, by its interdisciplinary nature, statistical
+machine learning helps to forge new links among these fields.
+
+An education in statistical machine learning at Berkeley thus involves an
+immersion in the traditions of statistical science broadly defined, a
+thoroughgoing involvement in exciting applied problems, and an opportunity to
+help shape the future of statistics.
