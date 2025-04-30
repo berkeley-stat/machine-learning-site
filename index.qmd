@@ -16,8 +16,7 @@ title: Research Statement
 [![B. Yu](images/Yu_tbnail.jpg)](https://binyu.stat.berkeley.edu)
 :::
 
-
-## Research Statement
+## Field Overview
 
 Statistical machine learning merges statistics with the computational sciences
 -- computer science, systems science and optimization. Much of the agenda in

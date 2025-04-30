@@ -21,7 +21,6 @@ mixture models in the different groups necessarily share mixture
 components. The HDP has found applications to a variety of real-world
 problems in areas such as genetics, information retrieval, computational
 vision and time series analysis.
-:::
 
 ## Detection of Clouds over Ice
 
