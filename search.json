@@ -1,12 +1,62 @@
 [
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Scalable statistical bug isolation\nLiknon (Matlab)",
+    "text": "A Dirichlet process (DP) is a distribution on distributions that is useful in model-based clustering problems. In particular, a draw from a DP yields a random set of atoms that can be treated as the parameters of the components in a mixture model. Each such draw contains an infinite collection of atoms, making this methodology a nonparametric approach to model-based clustering. To treat problems in which we have not only a single group of data to be clustered, but multiple, interrelated groups of data, we have extended the DP to the hierarchical Dirichlet process (HDP). In the HDP the base measure for each of a set of child DPs is itself distributed according to a DP. Such a base measure being discrete, the child DPs necessarily share atoms. Thus, as desired, the mixture models in the different groups necessarily share mixture components. The HDP has found applications to a variety of real-world problems in areas such as genetics, information retrieval, computational vision and time series analysis.",
     "crumbs": [
-      "Software"
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#hierarchical-dirichlet-processes-in-clustering",
+    "href": "research.html#hierarchical-dirichlet-processes-in-clustering",
+    "title": "Research",
+    "section": "",
+    "text": "A Dirichlet process (DP) is a distribution on distributions that is useful in model-based clustering problems. In particular, a draw from a DP yields a random set of atoms that can be treated as the parameters of the components in a mixture model. Each such draw contains an infinite collection of atoms, making this methodology a nonparametric approach to model-based clustering. To treat problems in which we have not only a single group of data to be clustered, but multiple, interrelated groups of data, we have extended the DP to the hierarchical Dirichlet process (HDP). In the HDP the base measure for each of a set of child DPs is itself distributed according to a DP. Such a base measure being discrete, the child DPs necessarily share atoms. Thus, as desired, the mixture models in the different groups necessarily share mixture components. The HDP has found applications to a variety of real-world problems in areas such as genetics, information retrieval, computational vision and time series analysis.",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#detection-of-clouds-over-ice",
+    "href": "research.html#detection-of-clouds-over-ice",
+    "title": "Research",
+    "section": "Detection of Clouds over Ice",
+    "text": "Detection of Clouds over Ice\n\nClouds play a major role in Earth's climate and cloud detection is a crucial step in the processing of satellite observations. To advance the observational capabilities of detecting clouds, NASA launched the Multi-angle Imagin and SpectroRadiometer (MISR) in 1999. It provides data in nine different views using four spectral channels.\nIn this project, the goal is to determine which regions observed by the MISR satellite are covered by clouds at polar regions. There, the classification is made difficult by the ice cover on the background of the images. The amount of cloud cover is an important parameter in meteorological models and massive amounts of data are transmitted by MISR. This requires the classification method to be both accurate and computationally efficient.",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research.html#others",
+    "href": "research.html#others",
+    "title": "Research",
+    "section": "Others",
+    "text": "Others\nMake sure to come back soon as the following projects will be shortly added:\n\nImage analysis\nSensor Networks\nGraphical models\nClassification methods",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Peter Bartlett\n\n\n\n\nMy research interests include machine learning, statistical learning theory, and adaptive control, in particular with a focus on statistical methods based on convex optimization, kernel methods, boosting methods, semi-supervised learning, structured classification, and reinforcement learning.\n\n\n\nPeter Bickel\n\n\n\n\nPeter Bickel’s research spans a number of areas. In his work on semiparametric models, he uses asymptotic theory to guide development and assessment of such models. His studies of hidden Markov models, which are important in such diverse fields as speech recognition and molecular biology, are directed toward understanding how well the method of maximum likelihood performs. He is also interested in the bootstrap, in developing empirical statistical models for genomic sequences. He is a co-author of the well known book Mathematical Statistics: Basic Ideas and Selected Topics.\n\n\n\nMichael Jordan\n\n\n\n\nMy research focuses on probabilistic graphical models, kernel machines, nonparametric Bayesian methods and applications to problems in bioinformatics, information retrieval, and signal processing.\n\n\n\nMartin Wainwright\n\n\n\n\nMy research interests include graphical models applications to signal processing and communication; distributed statistical inference; as well as information theory and statistics.\n\n\n\nBin Yu\n\n\n\n\nMy research goal is to solve data problems with real-world impact and at the same time develop new statistical methods to push the frontiers of statistics. My group's current research is driven by solving information technology problems such as those from data networks, remote sensing, neuroscience, and finance, while developing effective statistical or machine learning algorithms (e.g. BLasso) and carrying out related theoretical analysis.",
+    "crumbs": [
+      "People"
+    ]
+  },
+  {
+    "objectID": "people.html#faculty",
+    "href": "people.html#faculty",
+    "title": "People",
+    "section": "",
+    "text": "Peter Bartlett\n\n\n\n\nMy research interests include machine learning, statistical learning theory, and adaptive control, in particular with a focus on statistical methods based on convex optimization, kernel methods, boosting methods, semi-supervised learning, structured classification, and reinforcement learning.\n\n\n\nPeter Bickel\n\n\n\n\nPeter Bickel’s research spans a number of areas. In his work on semiparametric models, he uses asymptotic theory to guide development and assessment of such models. His studies of hidden Markov models, which are important in such diverse fields as speech recognition and molecular biology, are directed toward understanding how well the method of maximum likelihood performs. He is also interested in the bootstrap, in developing empirical statistical models for genomic sequences. He is a co-author of the well known book Mathematical Statistics: Basic Ideas and Selected Topics.\n\n\n\nMichael Jordan\n\n\n\n\nMy research focuses on probabilistic graphical models, kernel machines, nonparametric Bayesian methods and applications to problems in bioinformatics, information retrieval, and signal processing.\n\n\n\nMartin Wainwright\n\n\n\n\nMy research interests include graphical models applications to signal processing and communication; distributed statistical inference; as well as information theory and statistics.\n\n\n\nBin Yu\n\n\n\n\nMy research goal is to solve data problems with real-world impact and at the same time develop new statistical methods to push the frontiers of statistics. My group's current research is driven by solving information technology problems such as those from data networks, remote sensing, neuroscience, and finance, while developing effective statistical or machine learning algorithms (e.g. BLasso) and carrying out related theoretical analysis.",
+    "crumbs": [
+      "People"
     ]
   },
   {
@@ -50,6 +100,16 @@
     ]
   },
   {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Scalable statistical bug isolation\nLiknon (Matlab)",
+    "crumbs": [
+      "Software"
+    ]
+  },
+  {
     "objectID": "seminars.html",
     "href": "seminars.html",
     "title": "Seminars",
@@ -57,66 +117,6 @@
     "text": "The Neyman Seminar at the Statistics Department",
     "crumbs": [
       "Seminars"
-    ]
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Peter Bartlett\n\n\n\n\nMy research interests include machine learning, statistical learning theory, and adaptive control, in particular with a focus on statistical methods based on convex optimization, kernel methods, boosting methods, semi-supervised learning, structured classification, and reinforcement learning.\n\n\n\nPeter Bickel\n\n\n\n\nPeter Bickel’s research spans a number of areas. In his work on semiparametric models, he uses asymptotic theory to guide development and assessment of such models. His studies of hidden Markov models, which are important in such diverse fields as speech recognition and molecular biology, are directed toward understanding how well the method of maximum likelihood performs. He is also interested in the bootstrap, in developing empirical statistical models for genomic sequences. He is a co-author of the well known book Mathematical Statistics: Basic Ideas and Selected Topics.\n\n\n\nMichael Jordan\n\n\n\n\nMy research focuses on probabilistic graphical models, kernel machines, nonparametric Bayesian methods and applications to problems in bioinformatics, information retrieval, and signal processing.\n\n\n\nMartin Wainwright\n\n\n\n\nMy research interests include graphical models applications to signal processing and communication; distributed statistical inference; as well as information theory and statistics.\n\n\n\nBin Yu\n\n\n\n\nMy research goal is to solve data problems with real-world impact and at the same time develop new statistical methods to push the frontiers of statistics. My group's current research is driven by solving information technology problems such as those from data networks, remote sensing, neuroscience, and finance, while developing effective statistical or machine learning algorithms (e.g. BLasso) and carrying out related theoretical analysis.",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "people.html#faculty",
-    "href": "people.html#faculty",
-    "title": "People",
-    "section": "",
-    "text": "Peter Bartlett\n\n\n\n\nMy research interests include machine learning, statistical learning theory, and adaptive control, in particular with a focus on statistical methods based on convex optimization, kernel methods, boosting methods, semi-supervised learning, structured classification, and reinforcement learning.\n\n\n\nPeter Bickel\n\n\n\n\nPeter Bickel’s research spans a number of areas. In his work on semiparametric models, he uses asymptotic theory to guide development and assessment of such models. His studies of hidden Markov models, which are important in such diverse fields as speech recognition and molecular biology, are directed toward understanding how well the method of maximum likelihood performs. He is also interested in the bootstrap, in developing empirical statistical models for genomic sequences. He is a co-author of the well known book Mathematical Statistics: Basic Ideas and Selected Topics.\n\n\n\nMichael Jordan\n\n\n\n\nMy research focuses on probabilistic graphical models, kernel machines, nonparametric Bayesian methods and applications to problems in bioinformatics, information retrieval, and signal processing.\n\n\n\nMartin Wainwright\n\n\n\n\nMy research interests include graphical models applications to signal processing and communication; distributed statistical inference; as well as information theory and statistics.\n\n\n\nBin Yu\n\n\n\n\nMy research goal is to solve data problems with real-world impact and at the same time develop new statistical methods to push the frontiers of statistics. My group's current research is driven by solving information technology problems such as those from data networks, remote sensing, neuroscience, and finance, while developing effective statistical or machine learning algorithms (e.g. BLasso) and carrying out related theoretical analysis.",
-    "crumbs": [
-      "People"
-    ]
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "A Dirichlet process (DP) is a distribution on distributions that is useful in model-based clustering problems. In particular, a draw from a DP yields a random set of atoms that can be treated as the parameters of the components in a mixture model. Each such draw contains an infinite collection of atoms, making this methodology a nonparametric approach to model-based clustering. To treat problems in which we have not only a single group of data to be clustered, but multiple, interrelated groups of data, we have extended the DP to the hierarchical Dirichlet process (HDP). In the HDP the base measure for each of a set of child DPs is itself distributed according to a DP. Such a base measure being discrete, the child DPs necessarily share atoms. Thus, as desired, the mixture models in the different groups necessarily share mixture components. The HDP has found applications to a variety of real-world problems in areas such as genetics, information retrieval, computational vision and time series analysis.",
-    "crumbs": [
-      "Research"
-    ]
-  },
-  {
-    "objectID": "research.html#hierarchical-dirichlet-processes-in-clustering",
-    "href": "research.html#hierarchical-dirichlet-processes-in-clustering",
-    "title": "Research",
-    "section": "",
-    "text": "A Dirichlet process (DP) is a distribution on distributions that is useful in model-based clustering problems. In particular, a draw from a DP yields a random set of atoms that can be treated as the parameters of the components in a mixture model. Each such draw contains an infinite collection of atoms, making this methodology a nonparametric approach to model-based clustering. To treat problems in which we have not only a single group of data to be clustered, but multiple, interrelated groups of data, we have extended the DP to the hierarchical Dirichlet process (HDP). In the HDP the base measure for each of a set of child DPs is itself distributed according to a DP. Such a base measure being discrete, the child DPs necessarily share atoms. Thus, as desired, the mixture models in the different groups necessarily share mixture components. The HDP has found applications to a variety of real-world problems in areas such as genetics, information retrieval, computational vision and time series analysis.",
-    "crumbs": [
-      "Research"
-    ]
-  },
-  {
-    "objectID": "research.html#detection-of-clouds-over-ice",
-    "href": "research.html#detection-of-clouds-over-ice",
-    "title": "Research",
-    "section": "Detection of Clouds over Ice",
-    "text": "Detection of Clouds over Ice\n\nClouds play a major role in Earth's climate and cloud detection is a crucial step in the processing of satellite observations. To advance the observational capabilities of detecting clouds, NASA launched the Multi-angle Imagin and SpectroRadiometer (MISR) in 1999. It provides data in nine different views using four spectral channels.\nIn this project, the goal is to determine which regions observed by the MISR satellite are covered by clouds at polar regions. There, the classification is made difficult by the ice cover on the background of the images. The amount of cloud cover is an important parameter in meteorological models and massive amounts of data are transmitted by MISR. This requires the classification method to be both accurate and computationally efficient.",
-    "crumbs": [
-      "Research"
-    ]
-  },
-  {
-    "objectID": "research.html#others",
-    "href": "research.html#others",
-    "title": "Research",
-    "section": "Others",
-    "text": "Others\nMake sure to come back soon as the following projects will be shortly added:\n\nImage analysis\nSensor Networks\nGraphical models\nClassification methods",
-    "crumbs": [
-      "Research"
     ]
   }
 ]
