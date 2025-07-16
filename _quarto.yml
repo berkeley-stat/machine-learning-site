@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://berkeley-stat.github.io/machine-learning-site
+  site-url: https://statml.berkeley.edu
   sidebar:
     style: docked
     title: "Statistical Machine Learning"
