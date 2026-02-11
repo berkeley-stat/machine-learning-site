@@ -1,0 +1,16 @@
+## News 
+
+- Current semester (Spring 2026) group meetings listed below. Everyone is 
+  welcome! But please send an email first if you're a new participant.
+    - Jiantao Jiao: Mondays at 4:30pm in Cory 258.
+    - Michael Mahoney: Thursdays at 2pm in Soda 465H.
+    - Ryan Tibshirani: Tuesdays at 4pm in Evans 1011.
+    - Bin Yu: Wednesday at 9:30am in Evans 1011.
+
+- Peter Bartlett is giving a plenary lecture at International Congress of 
+  Mathematicians ([ICM](https://www.icm2026.org/)) in Philadelphia in July 2026.
+
+- Bin Yu gave the opening plenary talk at the International Conference on 
+  Statistics and Data Science ([ICSDS](https://sites.google.com/view/ims-icsds2025/))
+  in December 2025 in Seville, Spain.
+  [[Slides](https://binyu.stat.berkeley.edu/slides/ICSDS25-BinYu.pdf)]

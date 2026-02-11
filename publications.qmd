@@ -1,9 +1,0 @@
----
-title: Publications
----
-
- - [Peter Bartlett's publications](http://www.stat.berkeley.edu/~bartlett/publications/pubs-93.html)
- - [Peter Bickels's publications](http://www.stat.berkeley.edu/~bickel/bibserver.htm)
- - [Michael Jordan's publications](http://www.cs.berkeley.edu/~jordan/publications.html)
- - [Martin Wainwright's publications](http://www.eecs.berkeley.edu/~wainwrig/#publications)
- - [Bin Yu's publications](https://binyu.stat.berkeley.edu/papers)

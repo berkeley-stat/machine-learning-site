@@ -1,0 +1,25 @@
+Topics of recent interest include: 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Bayesian computation 
+- Data-driven decision making
+- Foundations of deep learning
+- Interpretable machine learning
+- Language and diffusion models 
+- Nonparametric inference 
+- Probabilistic forecasting
+:::
+
+::: {.column width="50%"}
+- Randomized algorithms 
+- Reinforcement learning
+- Statistical learning theory
+- Stochastic optimization
+- Uncertainty quantification 
+- Variational inference 
+- Veridical data science
+:::
+
+::::

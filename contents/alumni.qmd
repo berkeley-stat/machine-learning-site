@@ -1,0 +1,53 @@
+## Alumni
+
+::: {.grid}
+
+{{<alumni-card
+    name        = "ALUMNI LONG NAME"
+    url         = "https://statistics.berkeley.edu"
+    image       = "../images/stat_bear.png"
+    position    = "LONG POSITION @ LONG AFFILIATION"
+    year = "PhD 2026"
+>}}
+
+{{<alumni-card
+    name        = "ALUMNI LONG NAME"
+    url         = "https://statistics.berkeley.edu"
+    image       = "../images/stat_bear.png"
+    position    = "LONG POSITION @ LONG AFFILIATION"
+    year = "PhD 2026"
+>}}
+
+{{<alumni-card
+    name        = "ALUMNI LONG NAME"
+    url         = "https://statistics.berkeley.edu"
+    image       = "../images/stat_bear.png"
+    position    = "LONG POSITION @ LONG AFFILIATION"
+    year = "PhD 2026"
+>}}
+
+{{<alumni-card
+    name        = "ALUMNI LONG NAME"
+    url         = "https://statistics.berkeley.edu"
+    image       = "../images/stat_bear.png"
+    position    = "LONG POSITION @ LONG AFFILIATION"
+    year = "PhD 2026"
+>}}
+
+{{<alumni-card
+    name        = "ALUMNI LONG NAME"
+    url         = "https://statistics.berkeley.edu"
+    image       = "../images/stat_bear.png"
+    position    = "LONG POSITION @ LONG AFFILIATION"
+    year = "PhD 2026"
+>}}
+
+{{<alumni-card
+    name        = "ALUMNI LONG NAME"
+    url         = "https://statistics.berkeley.edu"
+    image       = "../images/stat_bear.png"
+    position    = "LONG POSITION @ LONG AFFILIATION"
+    year = "PhD 2026"
+>}}
+
+:::

@@ -1,0 +1,82 @@
+## Faculty
+
+::: {.grid}
+
+{{<faculty-card
+    name   = "Peter Bartlett"
+    url    = "https://www.stat.berkeley.edu/~bartlett/"
+    image  = "/images/peter_bartlett.jpg"
+    affil  = "Professor of Graduate School, Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Google and Simons "
+>}}
+
+{{<faculty-card
+    name   = "Ryan Giordano"
+    url    = "https://rgiordan.github.io/"
+    image  = "/images/ryan_giordano.JPG"
+    affil  = "Assistant Professor of Statistics"
+>}}
+
+{{<faculty-card
+    name   = "Jiantao Jiao"
+    url    = "https://people.eecs.berkeley.edu/~jiantao/"
+    image  = "/images/jiantao_jiao.png"
+    affil  = "Associate Professor of EECS and Stat<br style='display: block; margin-bottom: -0.5em; content:'';'>NVIDIA"
+>}}
+
+{{<faculty-card
+    name   = "Jason Lee"
+    url    = "https://jasondlee88.github.io/"
+    image  = "/images/jason_lee.jpg"
+    affil  = "Associate Professor of Stat and EECS"
+>}}
+
+{{<faculty-card
+    name   = "Michael Mahoney"
+    url    = "https://www.stat.berkeley.edu/~mmahoney/"
+    image  = "/images/michael_mahoney.png"
+    affil  = "Adjunct Professor of Statistics<br style='display: block; margin-bottom: -0.5em; content:'';'>LBNL"
+>}}
+
+{{<faculty-card
+    name   = "Song Mei"
+    url    = "https://www.stat.berkeley.edu/~songmei/"
+    image  = "/images/song_mei.png"
+    affil  = "Assistant Professor of Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>OpenAI"
+>}}
+
+{{<faculty-card
+    name   = "Ben Recht"
+    url    = "https://people.eecs.berkeley.edu/~brecht/"
+    image  = "/images/ben_recht.jpg"
+    affil  = "Professor of EECS"
+>}}
+
+{{<faculty-card
+    name   = "Jacob Steinhardt"
+    url    = "https://jsteinhardt.stat.berkeley.edu/"
+    image  = "/images/jacob_steinhardt.png"
+    affil  = "Associate Professor of Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Transluce"
+>}}
+
+
+{{<faculty-card
+    name   = "Ryan Tibshirani"
+    url    = "https://www.stat.berkeley.edu/~ryantibs/"
+    image  = "/images/ryan_tibshirani.jpg"
+    affil  = "Professor and Chair of Statistics"
+>}}
+
+{{<faculty-card
+    name   = "Bin Yu"
+    url    = "https://binyu.stat.berkeley.edu"
+    image  = "/images/bin_yu.jpg"
+    affil  = "Professor of Stat, EECS, and CCB<br style='display: block; margin-bottom: -0.5em; content:'';'>Simons"
+>}}
+
+{{<faculty-card
+    name   = "Nikita Zhivotovskiy"
+    url    = "https://sites.google.com/view/nikitazhivotovskiy/"
+    image  = "/images/nikita_zhivotovskiy.jpg"
+    affil  = "Assistant Professor of Statistics"
+>}}
+:::

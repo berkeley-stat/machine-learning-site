@@ -1,0 +1,221 @@
+## Students
+
+::: {.grid}
+
+{{<student-card
+    name     = "Ishaq Aden-Ali"
+    url      = "ishaqadenali.github.io"
+    image    = "/images/ishaq_aden_ali.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Jelani Nelson"
+>}}
+
+{{<student-card
+    name     = "Erez Buchweitz"
+    url      = ""
+    image    = "/images/erez_buchweitz.jpg"
+    affil    = "PhD, Stat"
+    advisors = "Ryan Tibshirani"
+>}}
+
+{{<student-card
+    name     = "Jessica Dai"
+    url      = "https://www.jessicad.ai/"
+    image    = "/images/jessica_dai.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Ben Recht<br style='display: block; margin-bottom: -0.5em; content:'';'>Nika Haghtalab"
+>}}
+
+{{<student-card
+    name     = "Tiffany Ding"
+    url      = "https://tiffanyding.github.io"
+    image    = "/images/tiffany_ding.jpg"
+    affil    = "PhD, Stat"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Ryan Tibshirani"
+>}}
+
+{{<student-card
+    name     = "Hengyu Fu"
+    url      = "https://hengyuf.github.io/"
+    image    = "/images/hengyu_fu.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Jason Lee&nbsp;&nbsp;Song Mei <br style='display: block; margin-bottom: -0.5em; content:'';'>Jiantao Jiao"
+>}}
+
+{{<student-card
+    name     = "Jeremy Goldwasser"
+    url      = "https://jeremy-goldwasser.github.io/"
+    image    = "/images/jeremy_goldwasser.jpeg"
+    affil    = "PhD, Stat"
+    advisors = "Giles Hooker<br style='display: block; margin-bottom: -0.5em; content:'';'>Ryan Tibshirani"
+>}}
+
+{{<student-card
+    name     = "Paula Gradu"
+    url      = "https://paula-gradu.github.io"
+    image    = "/images/paula_gradu.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Ben Recht"
+>}}
+
+{{<student-card
+    name     = "Hao Huang"
+    url      = ""
+    image    = "/images/hao_huang.jpg"
+    affil    = "Master's, Eng"
+    advisors = "Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Yaxuan Huang"
+    url      = "https://imyaxuan.github.io"
+    image    = "/images/stat_bear.png"
+    affil    = "PhD, Stat"
+    advisors = "Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Haozhe Jiang"
+    url      = "https://astro-eric.github.io"
+    image    = "/images/haozhe_jiang.jpeg"
+    affil    = "PhD, EECS"
+    advisors = "Jiantao Jiao<br style='display: block; margin-bottom: -0.5em; content:'';'>Nika Haghtalab"
+>}}
+
+{{<student-card
+    name     = "Hyunsuk Kim"
+    url      = ""
+    image    = "/images/hyunsuk_kim.jpg"
+    affil    = "PhD, Stat"
+    advisors = "Michael Mahoney<br style='display: block; margin-bottom: -0.5em; content:'';'>Ryan Tibshirani"
+>}}
+
+{{<student-card
+    name     = "Juno Kim"
+    url      = "https://junokim1.github.io/"
+    image    = "/images/juno_kim.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Jason Lee,<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
+>}}
+
+{{<student-card
+    name     = "Aaron J. Li"
+    url      = "https://aaron-jx-li.github.io/"
+    image    = "/images/aaron_j_li.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Bin Yu<br style='display: block; margin-bottom: -0.5em; content:'';'>Ion Stoica"
+>}}
+
+{{<student-card
+    name     = "Antoine Luciano"
+    url      = "https://sites.google.com/view/aluciano"
+    image    = "/images/antoine_luciano.jpg"
+    affil    = "Visiting Scholar, Stat"
+    advisors = "Ryan Giordano"
+>}}
+
+{{<student-card
+    name     = "Licong Lin"
+    url      = "https://licong-lin.github.io"
+    image    = "/images/licong_lin.png"
+    affil    = "PhD, Stat"
+    advisors = "Song Mei<br style='display: block; margin-bottom: -0.5em; content:'';'>Peter Bartlett"
+>}}
+
+{{<student-card
+    name     = "Kazusato Oko"
+    url      = ""
+    image    = "/images/stat_bear.png"
+    affil    = "PhD, EECS"
+    advisors = "Song Mei"
+>}}
+
+{{<student-card
+    name     = "Anthony Ozerov"
+    url      = "https://aozerov.com/"
+    image    = "/images/anthony_ozerov.jpg"
+    affil    = "PhD, Stat"
+    advisors = "Bin Yu<br style='display: block; margin-bottom: -0.5em; content:'';'>Fernando Pérez"
+>}}
+
+{{<student-card
+    name     = "Seunghoon Paik"
+    url      = "https://seunghoonpaik.com"
+    image    = "/images/seunghoon_paik.jpg"
+    affil    = "PhD, Stat"
+    advisors = "Ryan Tibshirani"
+>}}
+
+{{<student-card
+    name     = "Jongho Park"
+    url      = "https://jongho.me/"
+    image    = "/images/jongho_park.jpeg"
+    affil    = "PhD, EECS"
+    advisors = "Jason Lee<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
+>}}
+
+{{<student-card
+    name     = "Inioluwa Deborah Raji"
+    url      = "https://rajiinio.github.io/"
+    image    = "/images/inioluwa_deborah_raji.jpeg"
+    affil    = "PhD, EECS"
+    advisors = "Ben Recht"
+>}}
+
+{{<student-card
+    name     = "Zach Rewolinski"
+    url      = "https://www.zachrewolinski.com/"
+    image    = "/images/zach_rewolinski.jpeg"
+    affil    = "PhD, Stat"
+    advisors = "Bin Yu"
+>}}
+
+{{<student-card
+    name     = "João Vitor Romano"
+    url      = ""
+    image    = "/images/joao_vitor_romano.jpg"
+    affil    = "PhD, Stat"
+    advisors = "Ryan Tibshirani"
+>}}
+
+{{<student-card
+    name     = "Lucas Schwengber"
+    url      = "https://lucas-schwengber.github.io/"
+    image    = "/images/lucas_schwengber.png"
+    affil    = "PhD, Stat"
+    advisors = "Ryan Giordano"
+>}}
+
+{{<student-card
+    name     = "Anqi Wang"
+    url      = "https://statistics.berkeley.edu/people/anqi-wang"
+    image    = "/images/anqi_wang.jpg"
+    affil    = "PhD, Stat"
+    advisors = "Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Zeyu Yun"
+    url      = "https://redwood.berkeley.edu/people/zeyu-yun/"
+    image    = "/images/zeyu_yun.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Bruno Olshausen<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Ruiqi Zhang"
+    url      = "https://rqzhangberkeley.github.io/"
+    image    = "/images/ruiqi_zhang.jpg"
+    affil    = "PhD, Stat"
+    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
+>}}
+
+{{<student-card
+    name     = "Alex Zhao"
+    url      = ""
+    image    = "/images/alex_zhao.jpg"
+    affil    = "PhD, CCB"
+    advisors = "Nilah Ioannidis<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
+
+:::
