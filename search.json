@@ -1,122 +1,129 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "contents/postdocs.html",
+    "href": "contents/postdocs.html",
+    "title": "Berkeley StatML",
     "section": "",
-    "text": "A Dirichlet process (DP) is a distribution on distributions that is useful in model-based clustering problems. In particular, a draw from a DP yields a random set of atoms that can be treated as the parameters of the components in a mixture model. Each such draw contains an infinite collection of atoms, making this methodology a nonparametric approach to model-based clustering. To treat problems in which we have not only a single group of data to be clustered, but multiple, interrelated groups of data, we have extended the DP to the hierarchical Dirichlet process (HDP). In the HDP the base measure for each of a set of child DPs is itself distributed according to a DP. Such a base measure being discrete, the child DPs necessarily share atoms. Thus, as desired, the mixture models in the different groups necessarily share mixture components. The HDP has found applications to a variety of real-world problems in areas such as genetics, information retrieval, computational vision and time series analysis.",
-    "crumbs": [
-      "Research"
-    ]
+    "text": "Siavash Ameli\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhilip Amortila\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOleg Balabanov\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGabriel Clara\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKhashayar Gatmiry\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAvrajit Ghosh\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsaac Gibbs\n\n\nPostdoc, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGautam Goel\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKareem Hegazy\n\n\nPostdoc, Stat / LBNL\n\nBenjamin ErichsonMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJakob Heiss\n\n\nPostdoc, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHao Huang\n\n\nMaster, Engineering\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurtis McDonald\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMax Meinichenko\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRaphael Meyer\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPu Ren\n\n\nPostdoc, LBNL\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhichao Wang\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJingfeng Wu\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShengaho Yang\n\n\nPostdoc, Stat\n\nMichael Mahoney"
   },
   {
-    "objectID": "research.html#hierarchical-dirichlet-processes-in-clustering",
-    "href": "research.html#hierarchical-dirichlet-processes-in-clustering",
-    "title": "Research",
+    "objectID": "contents/postdocs.html#postdocs",
+    "href": "contents/postdocs.html#postdocs",
+    "title": "Berkeley StatML",
     "section": "",
-    "text": "A Dirichlet process (DP) is a distribution on distributions that is useful in model-based clustering problems. In particular, a draw from a DP yields a random set of atoms that can be treated as the parameters of the components in a mixture model. Each such draw contains an infinite collection of atoms, making this methodology a nonparametric approach to model-based clustering. To treat problems in which we have not only a single group of data to be clustered, but multiple, interrelated groups of data, we have extended the DP to the hierarchical Dirichlet process (HDP). In the HDP the base measure for each of a set of child DPs is itself distributed according to a DP. Such a base measure being discrete, the child DPs necessarily share atoms. Thus, as desired, the mixture models in the different groups necessarily share mixture components. The HDP has found applications to a variety of real-world problems in areas such as genetics, information retrieval, computational vision and time series analysis.",
-    "crumbs": [
-      "Research"
-    ]
+    "text": "Siavash Ameli\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhilip Amortila\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOleg Balabanov\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGabriel Clara\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKhashayar Gatmiry\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAvrajit Ghosh\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsaac Gibbs\n\n\nPostdoc, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGautam Goel\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKareem Hegazy\n\n\nPostdoc, Stat / LBNL\n\nBenjamin ErichsonMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJakob Heiss\n\n\nPostdoc, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHao Huang\n\n\nMaster, Engineering\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurtis McDonald\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMax Meinichenko\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRaphael Meyer\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPu Ren\n\n\nPostdoc, LBNL\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhichao Wang\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJingfeng Wu\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShengaho Yang\n\n\nPostdoc, Stat\n\nMichael Mahoney"
   },
   {
-    "objectID": "research.html#detection-of-clouds-over-ice",
-    "href": "research.html#detection-of-clouds-over-ice",
-    "title": "Research",
-    "section": "Detection of Clouds over Ice",
-    "text": "Detection of Clouds over Ice\n\nClouds play a major role in Earth's climate and cloud detection is a crucial step in the processing of satellite observations. To advance the observational capabilities of detecting clouds, NASA launched the Multi-angle Imagin and SpectroRadiometer (MISR) in 1999. It provides data in nine different views using four spectral channels.\nIn this project, the goal is to determine which regions observed by the MISR satellite are covered by clouds at polar regions. There, the classification is made difficult by the ice cover on the background of the images. The amount of cloud cover is an important parameter in meteorological models and massive amounts of data are transmitted by MISR. This requires the classification method to be both accurate and computationally efficient.",
-    "crumbs": [
-      "Research"
-    ]
-  },
-  {
-    "objectID": "research.html#others",
-    "href": "research.html#others",
-    "title": "Research",
-    "section": "Others",
-    "text": "Others\nMake sure to come back soon as the following projects will be shortly added:\n\nImage analysis\nSensor Networks\nGraphical models\nClassification methods",
-    "crumbs": [
-      "Research"
-    ]
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "contents/students.html",
+    "href": "contents/students.html",
+    "title": "Berkeley StatML",
     "section": "",
-    "text": "Peter Bartlett\n\n\n\n\nMy research interests include machine learning, statistical learning theory, and adaptive control, in particular with a focus on statistical methods based on convex optimization, kernel methods, boosting methods, semi-supervised learning, structured classification, and reinforcement learning.\n\n\n\nPeter Bickel\n\n\n\n\nPeter Bickel’s research spans a number of areas. In his work on semiparametric models, he uses asymptotic theory to guide development and assessment of such models. His studies of hidden Markov models, which are important in such diverse fields as speech recognition and molecular biology, are directed toward understanding how well the method of maximum likelihood performs. He is also interested in the bootstrap, in developing empirical statistical models for genomic sequences. He is a co-author of the well known book Mathematical Statistics: Basic Ideas and Selected Topics.\n\n\n\nMichael Jordan\n\n\n\n\nMy research focuses on probabilistic graphical models, kernel machines, nonparametric Bayesian methods and applications to problems in bioinformatics, information retrieval, and signal processing.\n\n\n\nMartin Wainwright\n\n\n\n\nMy research interests include graphical models applications to signal processing and communication; distributed statistical inference; as well as information theory and statistics.\n\n\n\nBin Yu\n\n\n\n\nMy research goal is to solve data problems with real-world impact and at the same time develop new statistical methods to push the frontiers of statistics. My group's current research is driven by solving information technology problems such as those from data networks, remote sensing, neuroscience, and finance, while developing effective statistical or machine learning algorithms (e.g. BLasso) and carrying out related theoretical analysis.",
-    "crumbs": [
-      "People"
-    ]
+    "text": "Ishaq Aden-Ali\n\n\nPhD, EECS\n\nPeter BartlettJelani Nelson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErez Buchweitz\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJessica Dai\n\n\nPhD, EECS\n\nBen RechtNika Haghtalab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTiffany Ding\n\n\nPhD, Stat\n\nMichael JordanRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHengyu Fu\n\n\nPhD, EECS\n\nJason Lee  Song Mei Jiantao Jiao\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJeremy Goldwasser\n\n\nPhD, Stat\n\nGiles HookerRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaula Gradu\n\n\nPhD, EECS\n\nMichael JordanBen Recht\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHao Huang\n\n\nMaster's, Eng\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYaxuan Huang\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaozhe Jiang\n\n\nPhD, EECS\n\nJiantao JiaoNika Haghtalab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHyunsuk Kim\n\n\nPhD, Stat\n\nMichael MahoneyRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuno Kim\n\n\nPhD, EECS\n\nJason Lee,Song Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAaron J. Li\n\n\nPhD, EECS\n\nBin YuIon Stoica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntoine Luciano\n\n\nVisiting Scholar, Stat\n\nRyan Giordano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicong Lin\n\n\nPhD, Stat\n\nSong MeiPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKazusato Oko\n\n\nPhD, EECS\n\nSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnthony Ozerov\n\n\nPhD, Stat\n\nBin YuFernando Pérez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeunghoon Paik\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJongho Park\n\n\nPhD, EECS\n\nJason LeeSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInioluwa Deborah Raji\n\n\nPhD, EECS\n\nBen Recht\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZach Rewolinski\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoão Vitor Romano\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucas Schwengber\n\n\nPhD, Stat\n\nRyan Giordano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnqi Wang\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeyu Yun\n\n\nPhD, EECS\n\nBruno OlshausenBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRuiqi Zhang\n\n\nPhD, Stat\n\nPeter BartlettSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlex Zhao\n\n\nPhD, CCB\n\nNilah IoannidisBin Yu"
   },
   {
-    "objectID": "people.html#faculty",
-    "href": "people.html#faculty",
-    "title": "People",
+    "objectID": "contents/students.html#students",
+    "href": "contents/students.html#students",
+    "title": "Berkeley StatML",
     "section": "",
-    "text": "Peter Bartlett\n\n\n\n\nMy research interests include machine learning, statistical learning theory, and adaptive control, in particular with a focus on statistical methods based on convex optimization, kernel methods, boosting methods, semi-supervised learning, structured classification, and reinforcement learning.\n\n\n\nPeter Bickel\n\n\n\n\nPeter Bickel’s research spans a number of areas. In his work on semiparametric models, he uses asymptotic theory to guide development and assessment of such models. His studies of hidden Markov models, which are important in such diverse fields as speech recognition and molecular biology, are directed toward understanding how well the method of maximum likelihood performs. He is also interested in the bootstrap, in developing empirical statistical models for genomic sequences. He is a co-author of the well known book Mathematical Statistics: Basic Ideas and Selected Topics.\n\n\n\nMichael Jordan\n\n\n\n\nMy research focuses on probabilistic graphical models, kernel machines, nonparametric Bayesian methods and applications to problems in bioinformatics, information retrieval, and signal processing.\n\n\n\nMartin Wainwright\n\n\n\n\nMy research interests include graphical models applications to signal processing and communication; distributed statistical inference; as well as information theory and statistics.\n\n\n\nBin Yu\n\n\n\n\nMy research goal is to solve data problems with real-world impact and at the same time develop new statistical methods to push the frontiers of statistics. My group's current research is driven by solving information technology problems such as those from data networks, remote sensing, neuroscience, and finance, while developing effective statistical or machine learning algorithms (e.g. BLasso) and carrying out related theoretical analysis.",
-    "crumbs": [
-      "People"
-    ]
+    "text": "Ishaq Aden-Ali\n\n\nPhD, EECS\n\nPeter BartlettJelani Nelson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErez Buchweitz\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJessica Dai\n\n\nPhD, EECS\n\nBen RechtNika Haghtalab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTiffany Ding\n\n\nPhD, Stat\n\nMichael JordanRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHengyu Fu\n\n\nPhD, EECS\n\nJason Lee  Song Mei Jiantao Jiao\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJeremy Goldwasser\n\n\nPhD, Stat\n\nGiles HookerRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaula Gradu\n\n\nPhD, EECS\n\nMichael JordanBen Recht\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHao Huang\n\n\nMaster's, Eng\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYaxuan Huang\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaozhe Jiang\n\n\nPhD, EECS\n\nJiantao JiaoNika Haghtalab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHyunsuk Kim\n\n\nPhD, Stat\n\nMichael MahoneyRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuno Kim\n\n\nPhD, EECS\n\nJason Lee,Song Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAaron J. Li\n\n\nPhD, EECS\n\nBin YuIon Stoica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntoine Luciano\n\n\nVisiting Scholar, Stat\n\nRyan Giordano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicong Lin\n\n\nPhD, Stat\n\nSong MeiPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKazusato Oko\n\n\nPhD, EECS\n\nSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnthony Ozerov\n\n\nPhD, Stat\n\nBin YuFernando Pérez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeunghoon Paik\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJongho Park\n\n\nPhD, EECS\n\nJason LeeSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInioluwa Deborah Raji\n\n\nPhD, EECS\n\nBen Recht\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZach Rewolinski\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoão Vitor Romano\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucas Schwengber\n\n\nPhD, Stat\n\nRyan Giordano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnqi Wang\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeyu Yun\n\n\nPhD, EECS\n\nBruno OlshausenBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRuiqi Zhang\n\n\nPhD, Stat\n\nPeter BartlettSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlex Zhao\n\n\nPhD, CCB\n\nNilah IoannidisBin Yu"
+  },
+  {
+    "objectID": "contents/alumni.html",
+    "href": "contents/alumni.html",
+    "title": "Berkeley StatML",
+    "section": "",
+    "text": "ALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION"
+  },
+  {
+    "objectID": "contents/alumni.html#alumni",
+    "href": "contents/alumni.html#alumni",
+    "title": "Berkeley StatML",
+    "section": "",
+    "text": "ALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nALUMNI LONG NAME\n\n\nPhD 2026\n\nLONG POSITION @ LONG AFFILIATION"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Research Statement",
+    "title": "Berkeley Statistical Machine Learning",
     "section": "",
-    "text": "P. Bartlett\n\n\n\n\n\n\n\nP. Bickel\n\n\n\n\n\n\n\nM. Jordan\n\n\n\n\n\n\n\nM. Wainwright\n\n\n\n\n\n\n\nB. Yu",
+    "text": "We are a group of researchers at UC Berkeley working in statistical machine learning.\nTopics of recent interest include:",
     "crumbs": [
-      "Research Statement"
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Berkeley Statistical Machine Learning",
+    "section": "News",
+    "text": "News\n\nCurrent semester (Spring 2026) group meetings listed below. Everyone is welcome! But please send an email first if you’re a new participant.\n\nJiantao Jiao: Mondays at 4:30pm in Cory 258.\nMichael Mahoney: Thursdays at 2pm in Soda 465H.\nRyan Tibshirani: Tuesdays at 4pm in Evans 1011.\nBin Yu: Wednesday at 9:30am in Evans 1011.\n\nPeter Bartlett is giving a plenary lecture at International Congress of Mathematicians (ICM) in Philadelphia in July 2026.\nBin Yu gave the opening plenary talk at the International Conference on Statistics and Data Science (ICSDS) in December 2025 in Seville, Spain. [Slides]",
+    "crumbs": [
+      "Home"
     ]
   },
   {
     "objectID": "index.html#faculty",
     "href": "index.html#faculty",
-    "title": "Research Statement",
-    "section": "",
-    "text": "P. Bartlett\n\n\n\n\n\n\n\nP. Bickel\n\n\n\n\n\n\n\nM. Jordan\n\n\n\n\n\n\n\nM. Wainwright\n\n\n\n\n\n\n\nB. Yu",
+    "title": "Berkeley Statistical Machine Learning",
+    "section": "Faculty",
+    "text": "Faculty\n\n\n\n\n\n\n\n\n\n\nPeter Bartlett\n\n\nProfessor of Graduate School, Stat and EECSGoogle and Simons \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Giordano\n\n\nAssistant Professor of Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJiantao Jiao\n\n\nAssociate Professor of EECS and StatNVIDIA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJason Lee\n\n\nAssociate Professor of Stat and EECS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichael Mahoney\n\n\nAdjunct Professor of StatisticsLBNL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSong Mei\n\n\nAssistant Professor of Stat and EECSOpenAI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBen Recht\n\n\nProfessor of EECS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacob Steinhardt\n\n\nAssociate Professor of Stat and EECSTransluce\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Tibshirani\n\n\nProfessor and Chair of Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBin Yu\n\n\nProfessor of Stat, EECS, and CCBSimons\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikita Zhivotovskiy\n\n\nAssistant Professor of Statistics",
     "crumbs": [
-      "Research Statement"
+      "Home"
     ]
   },
   {
-    "objectID": "index.html#field-overview",
-    "href": "index.html#field-overview",
-    "title": "Research Statement",
-    "section": "Field Overview",
-    "text": "Field Overview\nStatistical machine learning merges statistics with the computational sciences – computer science, systems science and optimization. Much of the agenda in statistical machine learning is driven by applied problems in science and technology, where data streams are increasingly large-scale, dynamical and heterogeneous, and where mathematical and algorithmic creativity are required to bring statistical methodology to bear. Fields such as bioinformatics, artificial intelligence, signal processing, communications, networking, information management, finance, game theory and control theory are all being heavily influenced by developments in statistical machine learning.\nThe field of statistical machine learning also poses some of the most challenging theoretical problems in modern statistics, chief among them being the general problem of understanding the link between inference and computation.\nResearch in statistical machine learning at Berkeley builds on Berkeley’s world-class strengths in probability, mathematical statistics, computer science and systems science. Moreover, by its interdisciplinary nature, statistical machine learning helps to forge new links among these fields.\nAn education in statistical machine learning at Berkeley thus involves an immersion in the traditions of statistical science broadly defined, a thoroughgoing involvement in exciting applied problems, and an opportunity to help shape the future of statistics.",
+    "objectID": "index.html#postdocs",
+    "href": "index.html#postdocs",
+    "title": "Berkeley Statistical Machine Learning",
+    "section": "Postdocs",
+    "text": "Postdocs\n\n\n\n\n\n\n\n\n\n\nSiavash Ameli\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhilip Amortila\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOleg Balabanov\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGabriel Clara\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKhashayar Gatmiry\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAvrajit Ghosh\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsaac Gibbs\n\n\nPostdoc, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGautam Goel\n\n\nPostdoc, Simons\n\nPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKareem Hegazy\n\n\nPostdoc, Stat / LBNL\n\nBenjamin ErichsonMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJakob Heiss\n\n\nPostdoc, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHao Huang\n\n\nMaster, Engineering\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurtis McDonald\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMax Meinichenko\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRaphael Meyer\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPu Ren\n\n\nPostdoc, LBNL\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZhichao Wang\n\n\nPostdoc, Stat\n\nMichael Mahoney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJingfeng Wu\n\n\nPostdoc, Simons\n\nPeter BartlettBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShengaho Yang\n\n\nPostdoc, Stat\n\nMichael Mahoney",
     "crumbs": [
-      "Research Statement"
+      "Home"
     ]
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Peter Bartlett’s publications\nPeter Bickels’s publications\nMichael Jordan’s publications\nMartin Wainwright’s publications\nBin Yu’s publications",
+    "objectID": "index.html#students",
+    "href": "index.html#students",
+    "title": "Berkeley Statistical Machine Learning",
+    "section": "Students",
+    "text": "Students\n\n\n\n\n\n\n\n\n\n\nIshaq Aden-Ali\n\n\nPhD, EECS\n\nPeter BartlettJelani Nelson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErez Buchweitz\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJessica Dai\n\n\nPhD, EECS\n\nBen RechtNika Haghtalab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTiffany Ding\n\n\nPhD, Stat\n\nMichael JordanRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHengyu Fu\n\n\nPhD, EECS\n\nJason Lee  Song Mei Jiantao Jiao\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJeremy Goldwasser\n\n\nPhD, Stat\n\nGiles HookerRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaula Gradu\n\n\nPhD, EECS\n\nMichael JordanBen Recht\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHao Huang\n\n\nMaster's, Eng\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYaxuan Huang\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHaozhe Jiang\n\n\nPhD, EECS\n\nJiantao JiaoNika Haghtalab\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHyunsuk Kim\n\n\nPhD, Stat\n\nMichael MahoneyRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuno Kim\n\n\nPhD, EECS\n\nJason Lee,Song Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAaron J. Li\n\n\nPhD, EECS\n\nBin YuIon Stoica\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntoine Luciano\n\n\nVisiting Scholar, Stat\n\nRyan Giordano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLicong Lin\n\n\nPhD, Stat\n\nSong MeiPeter Bartlett\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKazusato Oko\n\n\nPhD, EECS\n\nSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnthony Ozerov\n\n\nPhD, Stat\n\nBin YuFernando Pérez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSeunghoon Paik\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJongho Park\n\n\nPhD, EECS\n\nJason LeeSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInioluwa Deborah Raji\n\n\nPhD, EECS\n\nBen Recht\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZach Rewolinski\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoão Vitor Romano\n\n\nPhD, Stat\n\nRyan Tibshirani\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLucas Schwengber\n\n\nPhD, Stat\n\nRyan Giordano\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnqi Wang\n\n\nPhD, Stat\n\nBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZeyu Yun\n\n\nPhD, EECS\n\nBruno OlshausenBin Yu\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRuiqi Zhang\n\n\nPhD, Stat\n\nPeter BartlettSong Mei\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlex Zhao\n\n\nPhD, CCB\n\nNilah IoannidisBin Yu",
     "crumbs": [
-      "Publications"
+      "Home"
     ]
   },
   {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
+    "objectID": "contents/faculty.html",
+    "href": "contents/faculty.html",
+    "title": "Berkeley StatML",
     "section": "",
-    "text": "Scalable statistical bug isolation\nLiknon (Matlab)",
-    "crumbs": [
-      "Software"
-    ]
+    "text": "Peter Bartlett\n\n\nProfessor of Graduate School, Stat and EECSGoogle and Simons \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Giordano\n\n\nAssistant Professor of Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJiantao Jiao\n\n\nAssociate Professor of EECS and StatNVIDIA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJason Lee\n\n\nAssociate Professor of Stat and EECS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichael Mahoney\n\n\nAdjunct Professor of StatisticsLBNL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSong Mei\n\n\nAssistant Professor of Stat and EECSOpenAI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBen Recht\n\n\nProfessor of EECS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacob Steinhardt\n\n\nAssociate Professor of Stat and EECSTransluce\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Tibshirani\n\n\nProfessor and Chair of Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBin Yu\n\n\nProfessor of Stat, EECS, and CCBSimons\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikita Zhivotovskiy\n\n\nAssistant Professor of Statistics"
   },
   {
-    "objectID": "seminars.html",
-    "href": "seminars.html",
-    "title": "Seminars",
+    "objectID": "contents/faculty.html#faculty",
+    "href": "contents/faculty.html#faculty",
+    "title": "Berkeley StatML",
     "section": "",
-    "text": "The Neyman Seminar at the Statistics Department",
-    "crumbs": [
-      "Seminars"
-    ]
+    "text": "Peter Bartlett\n\n\nProfessor of Graduate School, Stat and EECSGoogle and Simons \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Giordano\n\n\nAssistant Professor of Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJiantao Jiao\n\n\nAssociate Professor of EECS and StatNVIDIA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJason Lee\n\n\nAssociate Professor of Stat and EECS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichael Mahoney\n\n\nAdjunct Professor of StatisticsLBNL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSong Mei\n\n\nAssistant Professor of Stat and EECSOpenAI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBen Recht\n\n\nProfessor of EECS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJacob Steinhardt\n\n\nAssociate Professor of Stat and EECSTransluce\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Tibshirani\n\n\nProfessor and Chair of Statistics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBin Yu\n\n\nProfessor of Stat, EECS, and CCBSimons\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikita Zhivotovskiy\n\n\nAssistant Professor of Statistics"
+  },
+  {
+    "objectID": "contents/research.html",
+    "href": "contents/research.html",
+    "title": "Berkeley StatML",
+    "section": "",
+    "text": "Topics of recent interest include:\n\n\n\nBayesian computation\nData-driven decision making\nFoundations of deep learning\nInterpretable machine learning\nLanguage and diffusion models\nNonparametric inference\nProbabilistic forecasting\n\n\n\nRandomized algorithms\nReinforcement learning\nStatistical learning theory\nStochastic optimization\nUncertainty quantification\nVariational inference\nVeridical data science"
+  },
+  {
+    "objectID": "contents/news.html",
+    "href": "contents/news.html",
+    "title": "Berkeley StatML",
+    "section": "",
+    "text": "Current semester (Spring 2026) group meetings listed below. Everyone is welcome! But please send an email first if you’re a new participant.\n\nJiantao Jiao: Mondays at 4:30pm in Cory 258.\nMichael Mahoney: Thursdays at 2pm in Soda 465H.\nRyan Tibshirani: Tuesdays at 4pm in Evans 1011.\nBin Yu: Wednesday at 9:30am in Evans 1011.\n\nPeter Bartlett is giving a plenary lecture at International Congress of Mathematicians (ICM) in Philadelphia in July 2026.\nBin Yu gave the opening plenary talk at the International Conference on Statistics and Data Science (ICSDS) in December 2025 in Seville, Spain. [Slides]"
+  },
+  {
+    "objectID": "contents/news.html#news",
+    "href": "contents/news.html#news",
+    "title": "Berkeley StatML",
+    "section": "",
+    "text": "Current semester (Spring 2026) group meetings listed below. Everyone is welcome! But please send an email first if you’re a new participant.\n\nJiantao Jiao: Mondays at 4:30pm in Cory 258.\nMichael Mahoney: Thursdays at 2pm in Soda 465H.\nRyan Tibshirani: Tuesdays at 4pm in Evans 1011.\nBin Yu: Wednesday at 9:30am in Evans 1011.\n\nPeter Bartlett is giving a plenary lecture at International Congress of Mathematicians (ICM) in Philadelphia in July 2026.\nBin Yu gave the opening plenary talk at the International Conference on Statistics and Data Science (ICSDS) in December 2025 in Seville, Spain. [Slides]"
   }
 ]

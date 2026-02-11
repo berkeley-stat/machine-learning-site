@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://statml.berkeley.edu/research.html</loc>
-    <lastmod>2025-07-16T00:04:38.342Z</lastmod>
+    <loc>https://statml.berkeley.edu/contents/postdocs.html</loc>
+    <lastmod>2026-02-11T22:37:03.817Z</lastmod>
   </url>
   <url>
-    <loc>https://statml.berkeley.edu/people.html</loc>
-    <lastmod>2025-07-16T00:04:38.342Z</lastmod>
+    <loc>https://statml.berkeley.edu/contents/students.html</loc>
+    <lastmod>2026-02-11T22:37:03.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://statml.berkeley.edu/contents/alumni.html</loc>
+    <lastmod>2026-02-11T22:37:03.816Z</lastmod>
   </url>
   <url>
     <loc>https://statml.berkeley.edu/index.html</loc>
-    <lastmod>2025-07-16T00:04:38.341Z</lastmod>
+    <lastmod>2026-02-11T22:37:03.978Z</lastmod>
   </url>
   <url>
-    <loc>https://statml.berkeley.edu/publications.html</loc>
-    <lastmod>2025-07-16T00:04:38.342Z</lastmod>
+    <loc>https://statml.berkeley.edu/contents/faculty.html</loc>
+    <lastmod>2026-02-11T22:37:03.816Z</lastmod>
   </url>
   <url>
-    <loc>https://statml.berkeley.edu/software.html</loc>
-    <lastmod>2025-07-16T00:04:38.342Z</lastmod>
+    <loc>https://statml.berkeley.edu/contents/research.html</loc>
+    <lastmod>2026-02-11T22:37:03.817Z</lastmod>
   </url>
   <url>
-    <loc>https://statml.berkeley.edu/seminars.html</loc>
-    <lastmod>2025-07-16T00:04:38.342Z</lastmod>
+    <loc>https://statml.berkeley.edu/contents/news.html</loc>
+    <lastmod>2026-02-11T22:37:03.817Z</lastmod>
   </url>
 </urlset>
