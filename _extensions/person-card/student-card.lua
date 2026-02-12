@@ -8,7 +8,7 @@ return {
     local html = string.format([[
 <div class="g-col-12 g-col-sm-6 g-col-lg-3">
 <div style="display: flex; gap: 15px; align-items: start;">
-<div style="flex-shrink: 1; width: 90px; min-width: 50px;">
+<div style="flex-shrink: 0; width: 90px;">
 <a href="%s" target='_blank'>
 <img src="%s" alt="Headshot" style="width: 100%%; aspect-ratio: 1/1; object-fit: cover; object-position: center; border-radius: 10%%;">
 </a>
