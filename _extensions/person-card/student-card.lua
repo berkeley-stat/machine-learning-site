@@ -6,7 +6,7 @@ return {
     local affil = pandoc.utils.stringify(kwargs["affil"] or "")
     local advisors = pandoc.utils.stringify(kwargs["advisors"] or "")
     local html = string.format([[
-<div class="g-col-12 g-col-sm-6 g-col-lg-3">
+<div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-xl-3">
 <div style="display: flex; gap: 15px; align-items: start;">
 <div style="flex-shrink: 0; width: 90px;">
 <a href="%s" target='_blank'>
