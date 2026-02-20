@@ -83,14 +83,6 @@
 >}}
 
 {{<student-card
-    name     = "Hao Huang"
-    url      = ""
-    image    = "/images/hao_huang.jpg"
-    affil    = "Master, Engineering"
-    advisors = "Bin Yu"
->}}
-
-{{<student-card
     name     = "Curtis McDonald"
     url      = "https://cmcdonald-1.github.io/"
     image    = "/images/curtis_mcdonald.jpg"
