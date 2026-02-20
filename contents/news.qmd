@@ -6,6 +6,7 @@
     - Michael Mahoney: Thursdays at 2pm in Soda 465H.
     - Ryan Tibshirani: Tuesdays at 4pm in Evans 1011.
     - Bin Yu: Wednesday at 9:30am in Evans 1011.
+    - Simons ML reading group: Mondays at 2pm in Calvin Lab 116.
     
 - [Tom Mitchell](https://www.cs.cmu.edu/~tom/) will give a special talk on the
   History of Machine Learning on March 3, 2026 at 4pm in Evans 1011!
