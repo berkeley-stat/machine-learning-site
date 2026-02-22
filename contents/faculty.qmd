@@ -20,7 +20,7 @@
     name   = "Jiantao Jiao"
     url    = "https://people.eecs.berkeley.edu/~jiantao/"
     image  = "/images/jiantao_jiao.png"
-    affil  = "Associate Professor of EECS and Stat<br style='display: block; margin-bottom: -0.5em; content:'';'>NVIDIA"
+    affil  = "Assistant Professor of EECS and Stat<br style='display: block; margin-bottom: -0.5em; content:'';'>NVIDIA"
 >}}
 
 {{<faculty-card
