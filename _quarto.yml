@@ -3,7 +3,7 @@ project:
 
 website:
   site-url: https://statml.berkeley.edu
-  title: "Berkeley StatML"
+  title: "Berkeley Stat ML"
   sidebar:
     style: docked
     logo: assets/logo/logo.png
