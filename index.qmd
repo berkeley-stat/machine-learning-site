@@ -1,5 +1,4 @@
 ---
-pagetitle: "Berkeley StatML"
 title: "Berkeley Statistical Machine Learning"
 ---
 
