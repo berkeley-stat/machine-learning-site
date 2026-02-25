@@ -1,4 +1,5 @@
 ---
+pagetitle: Berkeley Stat ML
 title: "Berkeley Statistical Machine Learning"
 ---
 
