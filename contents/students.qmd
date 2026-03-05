@@ -23,7 +23,7 @@
     url      = ""
     image    = "/images/mark_bedaywi.png"
     affil    = "PhD, EECS"
-    advisors = " Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Stuart Russell"
+    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Stuart Russell"
 >}}
 
 {{<student-card
@@ -102,15 +102,15 @@
     name     = "Baihe Huang"
     url      = ""
     image    = "/images/baihe_huang.jpeg"
-    affil    = "Master's, Eng"
-    advisors = "Bin Yu"
+    affil    = "PhD, EECS"
+    advisors = "Michael Jordan"
 >}}
 
 {{<student-card
     name     = "Hao Huang"
     url      = ""
     image    = "/images/hao_huang.jpg"
-    affil    = "Master's, Eng"
+    affil    = "Masters, Eng"
     advisors = "Bin Yu"
 >}}
 
