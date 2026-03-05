@@ -15,7 +15,7 @@ return {
 </div>
 <div style="flex: 1;line-height: 1.1;">
 <a href="%s" target='_blank' style="color: inherit; text-decoration: none;">
-<span style="font-size: 1.1em; font-weight: 600; display: inline-block; height: 2.1em; line-height: 0.88em; vertical-align: top;">%s</span>
+<span style="font-size: 1.05em; font-weight: 600; display: inline-block; height: 2.1em; line-height: 0.88em; vertical-align: top;">%s</span>
 </a>
 <br><span style="font-size: 0.7em; font-weight: 300;">
 %s
