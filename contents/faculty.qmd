@@ -17,10 +17,24 @@
 >}}
 
 {{<faculty-card
+    name   = "Nika Haghtalab"
+    url    = "https://people.eecs.berkeley.edu/~nika/"
+    image  = "/images/nika_haghtalab.jpg"
+    affil  = "Assistant Professor of EECS"
+>}}
+
+{{<faculty-card
     name   = "Jiantao Jiao"
     url    = "https://people.eecs.berkeley.edu/~jiantao/"
     image  = "/images/jiantao_jiao.png"
     affil  = "Assistant Professor of EECS and Stat<br style='display: block; margin-bottom: -0.5em; content:'';'>NVIDIA"
+>}}
+
+{{<faculty-card
+    name   = "Michael Jordan"
+    url    = "https://people.eecs.berkeley.edu/~jordan/"
+    image  = "/images/michael_jordan.jpg"
+    affil  = "Professor of Stat and EECS"
 >}}
 
 {{<faculty-card

@@ -4,10 +4,26 @@
 
 {{<student-card
     name     = "Ishaq Aden-Ali"
-    url      = "ishaqadenali.github.io"
+    url      = "https://ishaqadenali.github.io"
     image    = "/images/ishaq_aden_ali.jpg"
     affil    = "PhD, EECS"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Jelani Nelson"
+>}}
+
+{{<student-card
+    name     = "Nivasini Ananthakrishnan"
+    url      = "https://nivasini.github.io/"
+    image    = "/images/nivasini_ananthakrishnan.jpeg"
+    affil    = "PhD, EECS"
+    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
+>}}
+
+{{<student-card
+    name     = "Mark Bedaywi"
+    url      = ""
+    image    = "/images/mark_bedaywi.png"
+    affil    = "PhD, EECS"
+    advisors = " Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Stuart Russell"
 >}}
 
 {{<student-card
@@ -16,6 +32,14 @@
     image    = "/images/erez_buchweitz.jpg"
     affil    = "PhD, Stat"
     advisors = "Ryan Tibshirani"
+>}}
+
+{{<student-card
+    name     = "Yuhang Cai"
+    url      = "https://willcai7.github.io/"
+    image    = "/images/yuhang_cai.png"
+    affil    = "PhD, Math"
+    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Lindsey"
 >}}
 
 {{<student-card
@@ -59,6 +83,30 @@
 >}}
 
 {{<student-card
+    name     = "Tianyu Guo"
+    url      = "https://guotianyu2000.github.io/"
+    image    = "/images/stat_bear.png"
+    affil    = "PhD, Stat"
+    advisors = "Song Mei<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
+>}}
+
+{{<student-card
+    name     = "Xinyan Hu"
+    url      = ""
+    image    = "/images/xinyan_hu.jpeg"
+    affil    = "PhD, EECS"
+    advisors = "Michael Jordan"
+>}}
+
+{{<student-card
+    name     = "Baihe Huang"
+    url      = ""
+    image    = "/images/baihe_huang.jpeg"
+    affil    = "Master's, Eng"
+    advisors = "Bin Yu"
+>}}
+
+{{<student-card
     name     = "Hao Huang"
     url      = ""
     image    = "/images/hao_huang.jpg"
@@ -83,6 +131,14 @@
 >}}
 
 {{<student-card
+    name     = "Jivat Kaur"
+    url      = "https://jivatneet.github.io/"
+    image    = "/images/jivat_kaur.jpg"
+    affil    = "PhD, CPH"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Ahmed Alaa"
+>}}
+
+{{<student-card
     name     = "Hyunsuk Kim"
     url      = ""
     image    = "/images/hyunsuk_kim.jpg"
@@ -95,7 +151,15 @@
     url      = "https://junokim1.github.io/"
     image    = "/images/juno_kim.jpg"
     affil    = "PhD, EECS"
-    advisors = "Jason Lee,<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
+    advisors = "Jason Lee<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
+>}}
+
+{{<student-card
+    name     = "Brian Lee"
+    url      = "https://sites.google.com/berkeley.edu/blee"
+    image    = "/images/brian_lee.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
@@ -120,6 +184,14 @@
     image    = "/images/licong_lin.png"
     affil    = "PhD, Stat"
     advisors = "Song Mei<br style='display: block; margin-bottom: -0.5em; content:'';'>Peter Bartlett"
+>}}
+
+{{<student-card
+    name     = "Ezinne Nwankwo"
+    url      = "https://www.ezinnenwa.com"
+    image    = "/images/ezinne_nwankwo.jpeg"
+    affil    = "PhD, EECS"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Amanda Coston"
 >}}
 
 {{<student-card
@@ -171,11 +243,29 @@
 >}}
 
 {{<student-card
+    name     = "Sean Richardson"
+    url      = ""
+    image    = "/images/sean_richardson.png"
+    affil    = "PhD, Stat"
+    advisors = "Ryan Giordano"
+>}}
+
+
+{{<student-card
     name     = "João Vitor Romano"
     url      = ""
     image    = "/images/joao_vitor_romano.jpg"
     affil    = "PhD, Stat"
     advisors = "Ryan Tibshirani"
+>}}
+
+
+{{<student-card
+    name     = "Ricardo J. Sandoval"
+    url      = "https://ricardojsandoval.github.io/"
+    image    = "/images/ricardo_j_sandoval.jpg"
+    affil    = "PhD, EECS"
+    advisors = "Avi Feller<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
@@ -187,11 +277,43 @@
 >}}
 
 {{<student-card
+    name     = "Annie Ulichney"
+    url      = "https://aulichney.github.io/"
+    image    = "/images/annie_ulichney.png"
+    affil    = "PhD, Stat"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Nika Haghtalab"
+>}}
+
+{{<student-card
     name     = "Anqi Wang"
     url      = "https://statistics.berkeley.edu/people/anqi-wang"
     image    = "/images/anqi_wang.jpg"
     affil    = "PhD, Stat"
     advisors = "Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Zixuan Wang"
+    url      = ""
+    image    = "/images/stat_bear.png"
+    affil    = "PhD, EECS"
+    advisors = "Jason Lee"
+>}}
+
+{{<student-card
+    name     = "Kunhe Yang"
+    url      = "https://www.kunheyang.com"
+    image    = "/images/kunhe_yang.jpeg"
+    affil    = "PhD, EECS"
+    advisors = "Nika Haghtalab"
+>}}
+
+{{<student-card
+    name     = "Xuelin Yang"
+    url      = "http://xyang23.github.io"
+    image    = "/images/stat_bear.png"
+    affil    = "PhD, Stat"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Guido Imbens"
 >}}
 
 {{<student-card

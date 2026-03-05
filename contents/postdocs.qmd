@@ -19,11 +19,27 @@
 >}}
 
 {{<student-card
+    name     = "Liviu Aolaritei"
+    url      = "https://sites.google.com/view/liviu-aolaritei/home"
+    image    = "/images/liviu_aolaritei.jpg"
+    affil    = "Postdoc, EECS"
+    advisors = "Michael Jordan"
+>}}
+
+{{<student-card
     name     = "Oleg Balabanov"
     url      = ""
     image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Mahoney"
+>}}
+
+{{<student-card
+    name     = "Linda Cai"
+    url      = "https://lindacai1997.github.io/"
+    image    = "/images/stat_bear.png"
+    affil    = "Postdoc, EECS"
+    advisors = "Michael Jordan"
 >}}
 
 {{<student-card
@@ -63,6 +79,14 @@
     url      = "https://gautamcgoel.github.io/"
     image    = "/images/gautam_goel.jpg"
     affil    = "Postdoc, Simons"
+    advisors = "Peter Bartlett"
+>}}
+
+{{<student-card
+    name     = "Keegan Harris"
+    url      = "https://keeganharris.github.io/"
+    image    = "/images/stat_bear.png"
+    affil    = "Postdoc, EECS"
     advisors = "Peter Bartlett"
 >}}
 
@@ -120,6 +144,14 @@
     image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Mahoney"
+>}}
+
+{{<student-card
+    name     = "Ian Waudby-Smith"
+    url      = "https://ianws.com/"
+    image    = "/images/stat_bear.png"
+    affil    = "Postdoc, Stat"
+    advisors = "Michael Jordan"
 >}}
 
 {{<student-card
