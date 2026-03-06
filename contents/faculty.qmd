@@ -6,7 +6,7 @@
     name   = "Peter Bartlett"
     url    = "https://www.stat.berkeley.edu/~bartlett/"
     image  = "/images/peter_bartlett.jpg"
-    affil  = "Professor of Graduate School, Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Google and Simons "
+    affil  = "Professor of Graduate School, Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Google and Simons"
 >}}
 
 {{<faculty-card
@@ -34,7 +34,7 @@
     name   = "Michael Jordan"
     url    = "https://people.eecs.berkeley.edu/~jordan/"
     image  = "/images/michael_jordan.jpg"
-    affil  = "Professor of Stat and EECS"
+    affil  = "Professor of Graduate School, Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Inria Paris"
 >}}
 
 {{<faculty-card
