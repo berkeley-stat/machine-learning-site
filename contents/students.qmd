@@ -187,6 +187,14 @@
 >}}
 
 {{<student-card
+    name     = "Drew Nguyen"
+    url      = "https://drewtnguyen.github.io/"
+    image    = "/images/stat_bear.png"
+    affil    = "PhD, Stat"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Will Fithian"
+>}}
+
+{{<student-card
     name     = "Ezinne Nwankwo"
     url      = "https://www.ezinnenwa.com"
     image    = "/images/ezinne_nwankwo.jpeg"
