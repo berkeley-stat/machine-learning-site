@@ -47,7 +47,7 @@
     url      = "https://www.jessicad.ai/"
     image    = "/images/jessica_dai.jpg"
     affil    = "PhD, EECS"
-    advisors = "Ben Recht<br style='display: block; margin-bottom: -0.5em; content:'';'>Nika Haghtalab"
+    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Ben Recht"
 >}}
 
 {{<student-card
@@ -63,7 +63,7 @@
     url      = "https://hengyuf.github.io/"
     image    = "/images/hengyu_fu.jpg"
     affil    = "PhD, EECS"
-    advisors = "Jason Lee&nbsp;&nbsp;Song Mei <br style='display: block; margin-bottom: -0.5em; content:'';'>Jiantao Jiao"
+    advisors = "Jiantao Jiao&nbsp;&nbsp;Jason Lee<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
 >}}
 
 {{<student-card
@@ -87,7 +87,7 @@
     url      = "https://guotianyu2000.github.io/"
     image    = "/images/stat_bear.png"
     affil    = "PhD, Stat"
-    advisors = "Song Mei<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
 >}}
 
 {{<student-card
@@ -110,7 +110,7 @@
     name     = "Hao Huang"
     url      = ""
     image    = "/images/hao_huang.jpg"
-    affil    = "Masters, Eng"
+    affil    = "Master's, Eng"
     advisors = "Bin Yu"
 >}}
 
@@ -127,7 +127,7 @@
     url      = "https://astro-eric.github.io"
     image    = "/images/haozhe_jiang.jpeg"
     affil    = "PhD, EECS"
-    advisors = "Jiantao Jiao<br style='display: block; margin-bottom: -0.5em; content:'';'>Nika Haghtalab"
+    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Jiantao Jiao"
 >}}
 
 {{<student-card
@@ -135,7 +135,7 @@
     url      = "https://jivatneet.github.io/"
     image    = "/images/jivat_kaur.jpg"
     affil    = "PhD, CPH"
-    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Ahmed Alaa"
+    advisors = "Ahmed Alaa<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
@@ -167,7 +167,7 @@
     url      = "https://aaron-jx-li.github.io/"
     image    = "/images/aaron_j_li.jpg"
     affil    = "PhD, EECS"
-    advisors = "Bin Yu<br style='display: block; margin-bottom: -0.5em; content:'';'>Ion Stoica"
+    advisors = "Ion Stoica<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
 
 {{<student-card
@@ -183,7 +183,7 @@
     url      = "https://licong-lin.github.io"
     image    = "/images/licong_lin.png"
     affil    = "PhD, Stat"
-    advisors = "Song Mei<br style='display: block; margin-bottom: -0.5em; content:'';'>Peter Bartlett"
+    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
 >}}
 
 {{<student-card
@@ -191,7 +191,7 @@
     url      = "https://drewtnguyen.github.io/"
     image    = "/images/stat_bear.png"
     affil    = "PhD, Stat"
-    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Will Fithian"
+    advisors = "Will Fithian<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
@@ -199,7 +199,7 @@
     url      = "https://www.ezinnenwa.com"
     image    = "/images/ezinne_nwankwo.jpeg"
     affil    = "PhD, EECS"
-    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Amanda Coston"
+    advisors = "Amanda Coston<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
@@ -215,7 +215,7 @@
     url      = "https://aozerov.com/"
     image    = "/images/anthony_ozerov.jpg"
     affil    = "PhD, Stat"
-    advisors = "Bin Yu<br style='display: block; margin-bottom: -0.5em; content:'';'>Fernando Pérez"
+    advisors = "Fernando Pérez<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
 
 {{<student-card
@@ -289,7 +289,7 @@
     url      = "https://aulichney.github.io/"
     image    = "/images/annie_ulichney.png"
     affil    = "PhD, Stat"
-    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Nika Haghtalab"
+    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
@@ -321,7 +321,7 @@
     url      = "http://xyang23.github.io"
     image    = "/images/stat_bear.png"
     affil    = "PhD, Stat"
-    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Guido Imbens"
+    advisors = "Guido Imbens<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
