@@ -8,7 +8,7 @@ return {
     local position = pandoc.utils.stringify(kwargs["position"] or "")
     local year = pandoc.utils.stringify(kwargs["year"] or "")
     local site_root = quarto.project.directory or "."
-    image = resize.maybe_resize(image, site_root)
+    image = resize.prepare_image(image, site_root)
 
     local html = string.format([[
 <div class="g-col-12 g-col-sm-6 g-col-lg-3">
