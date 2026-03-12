@@ -1,3 +1,5 @@
+local resize = require("resize-image")
+
 return {
   ['alumni-card'] = function(args, kwargs)
     local name = pandoc.utils.stringify(kwargs["name"] or "")
@@ -5,6 +7,8 @@ return {
     local image = pandoc.utils.stringify(kwargs["image"] or "")
     local position = pandoc.utils.stringify(kwargs["position"] or "")
     local year = pandoc.utils.stringify(kwargs["year"] or "")
+    local site_root = quarto.project.directory or "."
+    image = resize.maybe_resize(image, site_root)
 
     local html = string.format([[
 <div class="g-col-12 g-col-sm-6 g-col-lg-3">
