@@ -87,7 +87,7 @@
     url      = "https://keeganharris.github.io/"
     image    = "/images/stat_bear.png"
     affil    = "Postdoc, EECS"
-    advisors = "Peter Bartlett"
+    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
