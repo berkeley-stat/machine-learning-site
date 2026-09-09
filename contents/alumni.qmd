@@ -37,4 +37,11 @@
     year = "PhD 2026"
 >}}
 
+{{<alumni-card
+    name        = "Licong Lin"
+    url         = "https://licong-lin.github.io"
+    position    = "Assistant Professor of Statistics and Data Science @ Cornell University"
+    year = "PhD 2026"
+>}}
+
 :::

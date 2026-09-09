@@ -24,8 +24,8 @@ website:
         text: Postdocs
       - href: index.qmd#students
         text: Students
-      # - href: index.qmd#alumni
-      #   text: Alumni
+      - href: index.qmd#alumni
+        text: Alumni
 
 format:
   html:

@@ -136,13 +136,6 @@
 >}}
 
 {{<student-card
-    name     = "Licong Lin"
-    url      = "https://licong-lin.github.io"
-    affil    = "PhD, Stat"
-    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
->}}
-
-{{<student-card
     name     = "Drew Nguyen"
     url      = "https://drewtnguyen.github.io/"
     affil    = "PhD, Stat"
