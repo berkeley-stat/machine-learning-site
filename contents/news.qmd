@@ -3,14 +3,16 @@
 **Group meetings** (Fall 2026) listed below. Everyone is 
   welcome! But please send an email first if you're a new participant.
 
-    <!-- - Nika Haghtalab: Thursdays at 10am (contact Nika to find location). 
+    - Ryan Tibshirani: Tuesdays at 1pm in Gateway 3355.
+    - Bin Yu: Wednesdays at 9:30am in Gateway 3355.
+
+<!-- 
+    - Nika Haghtalab: Thursdays at 10am (contact Nika to find location). 
     - Jiantao Jiao: Mondays at 4:30pm in Cory 258.
     - Michael Jordan: Mondays at 11:30am in Soda 510.
     - Simons ML reading group: Mondays at 2pm in Calvin Lab 116.
-    - Michael Mahoney: please contact directly.
-    -->
-    - Ryan Tibshirani: Tuesdays at 1pm in Gateway 3355.
-    - Bin Yu: Wednesdays at 9:30am in Gateway 3355.
+    - Michael Mahoney: please contact directly. 
+-->
 
 <br>
 
