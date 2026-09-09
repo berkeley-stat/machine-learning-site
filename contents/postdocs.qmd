@@ -5,7 +5,6 @@
 {{<student-card
     name     = "Siavash Ameli"
     url      = "https://ameli.github.io/"
-    image    = "/images/siavash_ameli.jpg"
     affil    = "Postdoc, Stat"
     advisors = "Michael Mahoney"
 >}}
@@ -13,7 +12,6 @@
 {{<student-card
     name     = "Philip Amortila"
     url      = "https://www.philipamortila.com"
-    image    = "/images/philip_amortila.png"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett"
 >}}
@@ -21,7 +19,6 @@
 {{<student-card
     name     = "Liviu Aolaritei"
     url      = "https://sites.google.com/view/liviu-aolaritei/home"
-    image    = "/images/liviu_aolaritei.jpg"
     affil    = "Postdoc, EECS"
     advisors = "Michael Jordan"
 >}}
@@ -29,7 +26,6 @@
 {{<student-card
     name     = "Oleg Balabanov"
     url      = ""
-    image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Mahoney"
 >}}
@@ -37,7 +33,6 @@
 {{<student-card
     name     = "Linda Cai"
     url      = "https://lindacai1997.github.io/"
-    image    = "/images/stat_bear.png"
     affil    = "Postdoc, EECS"
     advisors = "Michael Jordan"
 >}}
@@ -45,7 +40,6 @@
 {{<student-card
     name     = "Gabriel Clara"
     url      = "https://gclara.gitlab.io"
-    image    = "/images/gabriel_clara.jpeg"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
@@ -53,7 +47,6 @@
 {{<student-card
     name     = "Khashayar Gatmiry"
     url      = "https://gatmiry.github.io/"
-    image    = "/images/khashayar_gatmiry.jpg"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett"
 >}}
@@ -61,7 +54,6 @@
 {{<student-card
     name     = "Jiawei Ge"
     url      = "https://jiaweige0416.github.io/"
-    image    = "/images/jiawei_ge.jpg"
     affil    = "Postdoc, Stat"
     advisors = "Ryan Tibshirani"
 >}}
@@ -69,7 +61,6 @@
 {{<student-card
     name     = "Avrajit Ghosh"
     url      = "https://sites.google.com/view/avrajitghosh"
-    image    = "/images/avrajit_ghosh.png"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
@@ -77,7 +68,6 @@
 {{<student-card
     name     = "Gautam Goel"
     url      = "https://gautamcgoel.github.io/"
-    image    = "/images/gautam_goel.jpg"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett"
 >}}
@@ -85,7 +75,6 @@
 {{<student-card
     name     = "Keegan Harris"
     url      = "https://keeganharris.github.io/"
-    image    = "/images/stat_bear.png"
     affil    = "Postdoc, EECS"
     advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
@@ -93,7 +82,6 @@
 {{<student-card
     name     = "Kareem Hegazy"
     url      = "https://khegazy.github.io/"
-    image    = "/images/kareem_hegazy.png"
     affil    = "Postdoc, Stat / LBNL"
     advisors = "Benjamin Erichson<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Mahoney"
 >}}
@@ -101,7 +89,6 @@
 {{<student-card
     name     = "Jakob Heiss"
     url      = "https://sites.google.com/view/jakob-heiss"
-    image    = "/images/jakob_heiss.jpg"
     affil    = "Postdoc, Stat"
     advisors = "Bin Yu"
 >}}
@@ -109,7 +96,6 @@
 {{<student-card
     name     = "Curtis McDonald"
     url      = "https://cmcdonald-1.github.io/"
-    image    = "/images/curtis_mcdonald.jpg"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
@@ -117,7 +103,6 @@
 {{<student-card
     name     = "Max Meinichenko"
     url      = ""
-    image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Mahoney"
 >}}
@@ -125,7 +110,6 @@
 {{<student-card
     name     = "Raphael Meyer"
     url      = ""
-    image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Mahoney"
 >}}
@@ -133,7 +117,6 @@
 {{<student-card
     name     = "Pu Ren"
     url      = "https://paulpuren.github.io/"
-    image    = "/images/pu_ren.jpg"
     affil    = "Postdoc, LBNL"
     advisors = "Michael Mahoney"
 >}}
@@ -141,7 +124,6 @@
 {{<student-card
     name     = "Zhichao Wang"
     url      = ""
-    image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Mahoney"
 >}}
@@ -149,7 +131,6 @@
 {{<student-card
     name     = "Ian Waudby-Smith"
     url      = "https://ianws.com/"
-    image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Jordan"
 >}}
@@ -157,7 +138,6 @@
 {{<student-card
     name     = "Shengaho Yang"
     url      = ""
-    image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Mahoney"
 >}}

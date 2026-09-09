@@ -1,5 +1,7 @@
 
 -- Prepares headshot images for use in person cards.
+-- Cards do not spell out their image: it is looked up from the person's name,
+-- as images/firstname_lastname.jpg -- see card_image at the bottom of this file.
 -- For every image, this crops a center square and resizes to 400x400px JPEG,
 -- saving the result to images-resized/. The original file is never modified.
 
@@ -9,6 +11,8 @@
 --        (cf. If your local is not MacOS, you may need ImageMagick's `convert` instead of `sips`.)
 --     2. When ready to publish, commit images-resized/ to the repo as well.
 --        Github Actions will then reuse the already-processed images without needing `sips`.
+
+local sorting = require("person-sort")
 
 local M = {}
 local TARGET_PX = 400  -- output square size in pixels (covers faculty at 2x retina)
@@ -76,6 +80,45 @@ function M.prepare_image(image_path, site_root)
 
   -- fallback: return original if processing failed
   return image_path
+end
+
+-- Headshots are found by name: a card only needs name = "Jane Doe" and the
+-- file images/jane_doe.jpg is picked up automatically. Other extensions are
+-- accepted too, since the originals are a mix of jpg/jpeg/png; whatever is
+-- found gets normalised to a 400x400 JPEG by prepare_image below. People with
+-- no headshot on file fall back to the Berkeley bear.
+local EXTENSIONS = { "jpg", "jpeg", "png", "JPG", "JPEG", "PNG" }
+local PLACEHOLDER = "/images/stat_bear.png"
+
+local function find_image(name, site_root)
+  local stem = sorting.slug(name)
+  if stem == "" then
+    return PLACEHOLDER
+  end
+  -- An already-processed image is enough on its own: Github Actions renders
+  -- from images-resized/ and never needs to look at the original.
+  local resized = "/images-resized/" .. stem .. ".jpg"
+  if file_exists(site_root .. resized) then
+    return resized
+  end
+  for _, ext in ipairs(EXTENSIONS) do
+    local candidate = "/images/" .. stem .. "." .. ext
+    if file_exists(site_root .. candidate) then
+      return candidate
+    end
+  end
+  return PLACEHOLDER
+end
+
+-- Entry point for the card shortcodes: resolves the headshot for `name` and
+-- returns the path to use in <img src>. Passing image = "..." on the card
+-- overrides the name-based lookup, for files that do not follow the convention.
+function M.card_image(name, override, site_root)
+  local path = override
+  if path == nil or path == "" then
+    path = find_image(name, site_root)
+  end
+  return M.prepare_image(path, site_root)
 end
 
 return M

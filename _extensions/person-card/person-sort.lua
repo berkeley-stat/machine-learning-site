@@ -30,6 +30,16 @@ local function fold(s)
   return (s:gsub("[\194-\244][\128-\191]*", function(c) return FOLD[c] or c end))
 end
 
+-- "Joao Vitor Romano" -> "joao_vitor_romano", the filename stem under images/
+-- holding that person's headshot. Spaces, hyphens and periods all collapse to a
+-- single underscore, so "Aaron J. Li" -> "aaron_j_li".
+function M.slug(name)
+  local s = fold(name):lower()
+  s = s:gsub("[^%w]+", "_")
+  s = s:gsub("^_+", ""):gsub("_+$", "")
+  return s
+end
+
 -- "Ishaq Aden-Ali" -> "adenali ishaq"; sorting on this orders by last name and
 -- breaks ties on the given names. A card may override the derived key by
 -- passing sortkey = "..." (useful for multi-word surnames like "van der Berg").

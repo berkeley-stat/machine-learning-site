@@ -3,50 +3,37 @@
 ::: {.grid}
 
 {{<alumni-card
-    name        = "ALUMNI LONG NAME"
-    url         = "https://statistics.berkeley.edu"
-    image       = "../images/stat_bear.png"
-    position    = "LONG POSITION @ LONG AFFILIATION"
+    name        = "Isaac Gibbs"
+    url         = "https://isgibbs.github.io/"
+    position    = "Assistant Professor of Statistics @ University of Toronto"
+    year = "Postdoc 2026"
+>}}
+
+{{<alumni-card
+    name        = "Tiffany Ding"
+    url         = ""
+    position    = "Member of Technical Staff @ Simile"
     year = "PhD 2026"
 >}}
 
 {{<alumni-card
-    name        = "ALUMNI LONG NAME"
-    url         = "https://statistics.berkeley.edu"
-    image       = "../images/stat_bear.png"
-    position    = "LONG POSITION @ LONG AFFILIATION"
+    name        = "Jeremy Goldwasser"
+    url         = ""
+    position    = "Research Scientist @ BlackRock AI Lab"
     year = "PhD 2026"
 >}}
 
 {{<alumni-card
-    name        = "ALUMNI LONG NAME"
+    name        = "Seunghoon Paik"
     url         = "https://statistics.berkeley.edu"
-    image       = "../images/stat_bear.png"
-    position    = "LONG POSITION @ LONG AFFILIATION"
+    position    = "@ Two Sigma"
     year = "PhD 2026"
 >}}
 
 {{<alumni-card
-    name        = "ALUMNI LONG NAME"
-    url         = "https://statistics.berkeley.edu"
-    image       = "../images/stat_bear.png"
-    position    = "LONG POSITION @ LONG AFFILIATION"
-    year = "PhD 2026"
->}}
-
-{{<alumni-card
-    name        = "ALUMNI LONG NAME"
-    url         = "https://statistics.berkeley.edu"
-    image       = "../images/stat_bear.png"
-    position    = "LONG POSITION @ LONG AFFILIATION"
-    year = "PhD 2026"
->}}
-
-{{<alumni-card
-    name        = "ALUMNI LONG NAME"
-    url         = "https://statistics.berkeley.edu"
-    image       = "../images/stat_bear.png"
-    position    = "LONG POSITION @ LONG AFFILIATION"
+    name        = "Hyunsuk Kim"
+    url         = ""
+    position    = "Quantitative Researcher @ Jump Trading"
     year = "PhD 2026"
 >}}
 

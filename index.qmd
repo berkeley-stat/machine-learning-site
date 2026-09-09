@@ -8,20 +8,9 @@ title: "Berkeley Statistical Machine Learning"
 We are a group of researchers at UC Berkeley working in statistical 
 machine learning. 
 
-<!-- Research -->
 {{< include contents/research.qmd >}}
-
-<!-- News -->
 {{< include contents/news.qmd >}}
-
-<!-- Faculty -->
 {{< include contents/faculty.qmd >}}
-
-<!-- Postdocs -->
 {{< include contents/postdocs.qmd >}}
-
-<!-- Students -->
 {{< include contents/students.qmd >}}
-
-<!-- Alumni -->
-<!-- {{< include contents/alumni.qmd >}} -->
+{{< include contents/alumni.qmd >}}
