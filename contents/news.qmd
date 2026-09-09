@@ -1,6 +1,6 @@
 ## News 
 
-**Group meetings** (Fall 2026) listed below. Everyone is 
+**Group meetings:** (Fall 2026) listed below. Everyone is 
   welcome! But please send an email first if you're a new participant.
 
     - Ryan Tibshirani: Tuesdays at 1pm in Gateway 3355.
@@ -15,5 +15,7 @@
 -->
 
 <br>
+**Highlights:**
 
-- Bin Yu is leading efforts to organize the Simons Institute Workshop on AI Risk, Evaluation and Governance (Spring, 2027).
+- Bin Yu is leading efforts to organize the Simons Institute Workshop on
+  AI Risk, Evaluation and Governance (Spring 2027).
