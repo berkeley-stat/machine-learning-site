@@ -9,8 +9,6 @@
 
 <div style="height: 0.75em;"></div>
 
-Other news:
-
 - Bin Yu is leading efforts to organize the Simons Institute Workshop on AI Risk, Evaluation and Governance (Spring, 2027).
 - Bin Yu is co-chairing the joint tenure track search between Statistics and EECS.
 
