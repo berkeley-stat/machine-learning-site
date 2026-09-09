@@ -34,7 +34,7 @@
     name     = "Hengyu Fu"
     url      = "https://hengyuf.github.io/"
     affil    = "PhD, EECS"
-    advisors = "Jiantao Jiao&nbsp;&nbsp;Jason Lee<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
+    advisors = "J. Jiao&nbsp;&nbsp;J. Lee<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
 >}}
 
 {{<student-card
@@ -83,7 +83,7 @@
     name     = "Haozhe Jiang"
     url      = "https://astro-eric.github.io"
     affil    = "PhD, EECS"
-    advisors = "Nika Haghtalab&nbsp;&nbsp;Jiantao Jiao<br style='display: block; margin-bottom: -0.5em; content:'';'>Pieter Abbeel"
+    advisors = "N. Haghtalab&nbsp;&nbsp;J. Jiao<br style='display: block; margin-bottom: -0.5em; content:'';'>Pieter Abbeel"
 >}}
 
 {{<student-card
@@ -125,7 +125,7 @@
     name     = "Robin Netzorg"
     url      = "https://robbizorg.github.io/"
     affil    = "PhD, EECS"
-    advisors = "Gopala Anumanchipalli<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+    advisors = "G. Anumanchipalli<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
 
 {{<student-card

@@ -19,7 +19,7 @@ return {
       [[<span style="font-size: 1.1em; font-weight: 600;">%s</span>]], name))
 
     local html = string.format([[
-<div class="g-col-12 g-col-sm-6 g-col-lg-3" data-sortkey="%s">
+<div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-xl-3" data-sortkey="%s">
 <div style="display: flex; gap: 15px; align-items: start;">
 <div style="flex-shrink: 1; width: 90px; min-width: 50px;">
 %s

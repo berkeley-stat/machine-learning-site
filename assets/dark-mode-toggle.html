@@ -1,0 +1,35 @@
+<script>
+  // Relocate Quarto's built-in color-scheme toggle out of the sidebar into a
+  // fixed top-right button, and give it a visible label. Moving the original
+  // element (rather than adding a second one) keeps Quarto's own state
+  // handling -- the .alternate class it toggles -- working untouched.
+  (() => {
+    const place = () => {
+      const toggle = document.querySelector('.quarto-color-scheme-toggle');
+      if (!toggle || document.getElementById('dark-mode-toggle-holder')) return;
+
+      const slot = toggle.closest('.sidebar-tools-main');
+
+      const label = document.createElement('span');
+      label.className = 'dark-mode-toggle-label';
+      label.textContent = 'Dark mode';
+      toggle.appendChild(label);
+
+      const holder = document.createElement('div');
+      holder.id = 'dark-mode-toggle-holder';
+      holder.appendChild(toggle);
+      document.body.appendChild(holder);
+
+      // The sidebar slot the toggle came from, now that nothing else uses it.
+      if (slot && slot.childElementCount === 0) {
+        slot.remove();
+      }
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', place);
+    } else {
+      place();
+    }
+  })();
+</script>

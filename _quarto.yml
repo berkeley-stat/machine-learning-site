@@ -32,4 +32,5 @@ format:
       light: cosmo
       dark: darkly
     css: assets/styles.css
+    include-after-body: assets/dark-mode-toggle.html
     toc: false # true

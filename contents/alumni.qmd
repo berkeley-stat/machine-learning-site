@@ -5,7 +5,7 @@
 {{<alumni-card
     name        = "Isaac Gibbs"
     url         = "https://isgibbs.github.io/"
-    position    = "Assistant Professor of Statistics @ University of Toronto"
+    position    = "Asst. Prof. of Statistics @ U Toronto"
     year = "Postdoc 2026"
 >}}
 
@@ -33,14 +33,14 @@
 {{<alumni-card
     name        = "Hyunsuk Kim"
     url         = ""
-    position    = "Quantitative Researcher @ Jump Trading"
+    position    = "Quant Researcher @ Jump Trading"
     year = "PhD Stats 2026"
 >}}
 
 {{<alumni-card
     name        = "Licong Lin"
     url         = "https://licong-lin.github.io"
-    position    = "Assistant Professor of Statistics and Data Science @ Cornell University (from 2027)"
+    position    = "Asst. Prof. of Statistics & Data Science @ Cornell (2027)"
     year = "PhD Stats 2026"
 >}}
 
@@ -61,7 +61,7 @@
 {{<alumni-card
     name        = "Chengzhong Ye"
     url         = ""
-    position    = "Postdoc @ Bakar Computational Biomedicine Initiative (BCBI), CDSS"
+    position    = "Postdoc @ BCBI, CDSS"
     year = "PhD Stats 2026"
 >}}
 
@@ -75,14 +75,14 @@
 {{<alumni-card
     name        = "Jakob Heiss"
     url         = "https://sites.google.com/view/jakob-heiss"
-    position    = "Assistant Professor of Statistics and Operations Research @ University of Vienna"
+    position    = "Asst. Prof. of Statistics & OR @ U Vienna"
     year = "Postdoc 2026"
 >}}
 
 {{<alumni-card
     name        = "Jingfeng Wu"
     url         = "https://uuujf.github.io/"
-    position    = "Assistant Professor of Statistics @ UC Berkeley"
+    position    = "Asst. Prof. of Statistics @ UC Berkeley"
     year = "Postdoc 2026"
 >}}
 
@@ -96,7 +96,7 @@
 {{<alumni-card
     name        = "Ruiqi Zhang"
     url         = "https://rqzhangberkeley.github.io/"
-    position    = "Quantitative Researcher @ Citadel Securities"
+    position    = "Quant Researcher @ Citadel Securities"
     year = "PhD Stats 2026"
 >}}
 
