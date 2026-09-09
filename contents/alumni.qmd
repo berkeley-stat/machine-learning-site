@@ -107,4 +107,25 @@
     year = "Postdoc 2026"
 >}}
 
+{{<alumni-card
+    name        = "Nivasini Ananthakrishnan"
+    url         = "https://nivasini.github.io/"
+    position    = ""
+    year = "PhD EECS 2026"
+>}}
+
+{{<alumni-card
+    name        = "Kunhe Yang"
+    url         = "https://www.kunheyang.com"
+    position    = ""
+    year = "PhD EECS 2026"
+>}}
+
+{{<alumni-card
+    name        = "Pu Ren"
+    url         = "https://paulpuren.github.io/"
+    position    = ""
+    year = "Postdoc 2026"
+>}}
+
 :::

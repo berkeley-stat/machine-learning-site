@@ -16,7 +16,7 @@
 
 {{<faculty-card
     name   = "Nika Haghtalab"
-    url    = "https://people.eecs.berkeley.edu/~nika/"
+    url    = "http://nika-haghtalab.com/"
     affil  = "Assistant Professor of EECS"
 >}}
 

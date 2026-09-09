@@ -31,6 +31,13 @@
 >}}
 
 {{<student-card
+    name     = "Edoardo Calvello"
+    url      = "https://www.edoardocalvello.com/"
+    affil    = "Postdoc, LBNL"
+    advisors = "Michael Mahoney"
+>}}
+
+{{<student-card
     name     = "Gabriel Clara"
     url      = "https://gclara.gitlab.io"
     affil    = "Postdoc, Simons"
@@ -97,13 +104,6 @@
     name     = "Raphael Meyer"
     url      = "https://ram900.com/"
     affil    = "Postdoc, Stats"
-    advisors = "Michael Mahoney"
->}}
-
-{{<student-card
-    name     = "Pu Ren"
-    url      = "https://paulpuren.github.io/"
-    affil    = "Postdoc, LBNL"
     advisors = "Michael Mahoney"
 >}}
 

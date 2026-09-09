@@ -3,13 +3,6 @@
 ::: {.grid}
 
 {{<student-card
-    name     = "Nivasini Ananthakrishnan"
-    url      = "https://nivasini.github.io/"
-    affil    = "PhD, EECS"
-    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
->}}
-
-{{<student-card
     name     = "Mark Bedaywi"
     url      = "https://markbedaywi.ca/"
     affil    = "PhD, EECS"
@@ -62,7 +55,7 @@
     name     = "Xinyan Hu"
     url      = ""
     affil    = "PhD, EECS"
-    advisors = "Michael Jordan"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Jacob Steinhardt"
 >}}
 
 {{<student-card
@@ -77,6 +70,13 @@
     url      = ""
     affil    = "Master's, Eng"
     advisors = "Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Holly Jackson"
+    url      = "https://holly-jackson.com/"
+    affil    = "PhD, EECS"
+    advisors = "Ben Recht"
 >}}
 
 {{<student-card
@@ -112,6 +112,13 @@
     url      = "https://aaron-jx-li.github.io/"
     affil    = "PhD, EECS"
     advisors = "Ion Stoica<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Robin Netzorg"
+    url      = "https://robbizorg.github.io/"
+    affil    = "PhD, EECS"
+    advisors = "Gopala Anumanchipalli<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
 
 {{<student-card
@@ -194,10 +201,24 @@
 >}}
 
 {{<student-card
+    name     = "Xueda Shen"
+    url      = ""
+    affil    = "PhD, Biostat"
+    advisors = "Ryan Tibshirani"
+>}}
+
+{{<student-card
     name     = "Annie Ulichney"
     url      = "https://aulichney.github.io/"
     affil    = "PhD, Stats"
     advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
+>}}
+
+{{<student-card
+    name     = "Francisca Vasconcelos"
+    url      = "https://franciscavasconcelos.github.io/"
+    affil    = "PhD, EECS"
+    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Umesh Vazirani"
 >}}
 
 {{<student-card
@@ -212,13 +233,6 @@
     url      = "https://zixuan-wang-dlt.github.io/"
     affil    = "PhD, EECS"
     advisors = "Jason Lee"
->}}
-
-{{<student-card
-    name     = "Kunhe Yang"
-    url      = "https://www.kunheyang.com"
-    affil    = "PhD, EECS"
-    advisors = "Nika Haghtalab"
 >}}
 
 {{<student-card
