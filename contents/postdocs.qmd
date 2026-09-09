@@ -59,19 +59,19 @@
 >}}
 
 {{<student-card
+    name     = "Jiawei Ge"
+    url      = "https://jiaweige0416.github.io/"
+    image    = "/images/jiawei_ge.jpg"
+    affil    = "Postdoc, Stat"
+    advisors = "Ryan Tibshirani"
+>}}
+
+{{<student-card
     name     = "Avrajit Ghosh"
     url      = "https://sites.google.com/view/avrajitghosh"
     image    = "/images/avrajit_ghosh.png"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
->}}
-
-{{<student-card
-    name     = "Isaac Gibbs"
-    url      = "https://isgibbs.github.io/"
-    image    = "/images/isaac_gibbs.jpg"
-    affil    = "Postdoc, Stat"
-    advisors = "Ryan Tibshirani"
 >}}
 
 {{<student-card
@@ -152,14 +152,6 @@
     image    = "/images/stat_bear.png"
     affil    = "Postdoc, Stat"
     advisors = "Michael Jordan"
->}}
-
-{{<student-card
-    name     = "Jingfeng Wu"
-    url      = "https://uuujf.github.io/"
-    image    = "/images/jingfeng_wu.png"
-    affil    = "Postdoc, Simons"
-    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
 
 {{<student-card

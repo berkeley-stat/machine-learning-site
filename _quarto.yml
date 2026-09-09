@@ -1,3 +1,7 @@
+filters:
+  - quarto
+  - _extensions/person-card/sort-cards.lua
+
 project:
   type: website
 

@@ -1,4 +1,5 @@
 local resize = require("resize-image")
+local sorting = require("person-sort")
 
 return {
   ['faculty-card'] = function(args, kwargs)
@@ -8,8 +9,9 @@ return {
     local affil = pandoc.utils.stringify(kwargs["affil"] or "")
     local site_root = quarto.project.directory or "."
     image = resize.prepare_image(image, site_root)
+    local sortkey = sorting.sort_key(name, pandoc.utils.stringify(kwargs["sortkey"] or ""))
     local html = string.format([[
-<div class="g-col-12 g-col-sm-6 g-col-lg-3">
+<div class="g-col-12 g-col-sm-6 g-col-lg-3" data-sortkey="%s">
 <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
 <div style="width: 80%%;">
 <a href="%s" target='_blank'>
@@ -26,7 +28,7 @@ return {
 </div>
 </div>
 </div>
-]], url, image, url, name, affil)
+]], sortkey, url, image, url, name, affil)
     return pandoc.RawBlock('html', html)
   end
 }

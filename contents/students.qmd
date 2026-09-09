@@ -51,27 +51,11 @@
 >}}
 
 {{<student-card
-    name     = "Tiffany Ding"
-    url      = "https://tiffanyding.github.io"
-    image    = "/images/tiffany_ding.jpg"
-    affil    = "PhD, Stat"
-    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Ryan Tibshirani"
->}}
-
-{{<student-card
     name     = "Hengyu Fu"
     url      = "https://hengyuf.github.io/"
     image    = "/images/hengyu_fu.jpg"
     affil    = "PhD, EECS"
     advisors = "Jiantao Jiao&nbsp;&nbsp;Jason Lee<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
->}}
-
-{{<student-card
-    name     = "Jeremy Goldwasser"
-    url      = "https://jeremy-goldwasser.github.io/"
-    image    = "/images/jeremy_goldwasser.jpeg"
-    affil    = "PhD, Stat"
-    advisors = "Giles Hooker<br style='display: block; margin-bottom: -0.5em; content:'';'>Ryan Tibshirani"
 >}}
 
 {{<student-card
@@ -136,14 +120,6 @@
     image    = "/images/jivat_kaur.jpg"
     affil    = "PhD, CPH"
     advisors = "Ahmed Alaa<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
->}}
-
-{{<student-card
-    name     = "Hyunsuk Kim"
-    url      = ""
-    image    = "/images/hyunsuk_kim.jpg"
-    affil    = "PhD, Stat"
-    advisors = "Michael Mahoney<br style='display: block; margin-bottom: -0.5em; content:'';'>Ryan Tibshirani"
 >}}
 
 {{<student-card
@@ -216,14 +192,6 @@
     image    = "/images/anthony_ozerov.jpg"
     affil    = "PhD, Stat"
     advisors = "Fernando Pérez<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
->}}
-
-{{<student-card
-    name     = "Seunghoon Paik"
-    url      = "https://seunghoonpaik.com"
-    image    = "/images/seunghoon_paik.jpg"
-    affil    = "PhD, Stat"
-    advisors = "Ryan Tibshirani"
 >}}
 
 {{<student-card

@@ -41,7 +41,7 @@
     name   = "Jason Lee"
     url    = "https://jasondlee88.github.io/"
     image  = "/images/jason_lee.jpg"
-    affil  = "Associate Professor of Stat and EECS"
+    affil  = "Associate Professor of Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Simons"
 >}}
 
 {{<faculty-card
@@ -92,5 +92,12 @@
     url    = "https://sites.google.com/view/nikitazhivotovskiy/"
     image  = "/images/nikita_zhivotovskiy.jpg"
     affil  = "Assistant Professor of Statistics"
+>}}
+
+{{<faculty-card
+    name     = "Jingfeng Wu"
+    url      = "https://uuujf.github.io/"
+    image    = "/images/jingfeng_wu.png"
+    affil    = "Assistant Professor of Statistics"
 >}}
 :::
