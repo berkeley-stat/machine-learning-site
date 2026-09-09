@@ -87,3 +87,7 @@ A person graduating out of `students.qmd` or `postdocs.qmd` gets **moved**, not
 copied — every other alum appears in exactly one file. Headshots resolve
 automatically from the name via `images/firstname_lastname.*`; do not add an
 `image` argument.
+
+Sweeping the whole roster rather than checking one person? Use
+`roster-maintenance` — it covers the search order that stops you concluding
+"no personal website exists" when the link is on the advisor's group page.

@@ -25,7 +25,7 @@
 
 {{<student-card
     name     = "Oleg Balabanov"
-    url      = ""
+    url      = "https://obalabanov.github.io/"
     affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
@@ -88,7 +88,7 @@
 
 {{<student-card
     name     = "Maksim Melnichenko"
-    url      = ""
+    url      = "https://maksimmelnichenko.com/"
     affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
