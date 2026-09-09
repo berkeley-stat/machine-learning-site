@@ -5,7 +5,7 @@
 {{<student-card
     name     = "Siavash Ameli"
     url      = "https://ameli.github.io/"
-    affil    = "Postdoc, Stat"
+    affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
 
@@ -26,7 +26,7 @@
 {{<student-card
     name     = "Oleg Balabanov"
     url      = ""
-    affil    = "Postdoc, Stat"
+    affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
 
@@ -54,7 +54,7 @@
 {{<student-card
     name     = "Jiawei Ge"
     url      = "https://jiaweige0416.github.io/"
-    affil    = "Postdoc, Stat"
+    affil    = "Postdoc, Stats"
     advisors = "Ryan Tibshirani"
 >}}
 
@@ -82,15 +82,8 @@
 {{<student-card
     name     = "Kareem Hegazy"
     url      = "https://khegazy.github.io/"
-    affil    = "Postdoc, Stat / LBNL"
+    affil    = "Postdoc, Stats / LBNL"
     advisors = "Benjamin Erichson<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Mahoney"
->}}
-
-{{<student-card
-    name     = "Jakob Heiss"
-    url      = "https://sites.google.com/view/jakob-heiss"
-    affil    = "Postdoc, Stat"
-    advisors = "Bin Yu"
 >}}
 
 {{<student-card
@@ -103,14 +96,14 @@
 {{<student-card
     name     = "Max Meinichenko"
     url      = ""
-    affil    = "Postdoc, Stat"
+    affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
 
 {{<student-card
     name     = "Raphael Meyer"
     url      = ""
-    affil    = "Postdoc, Stat"
+    affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
 
@@ -124,21 +117,21 @@
 {{<student-card
     name     = "Zhichao Wang"
     url      = ""
-    affil    = "Postdoc, Stat"
+    affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
 
 {{<student-card
     name     = "Ian Waudby-Smith"
     url      = "https://ianws.com/"
-    affil    = "Postdoc, Stat"
+    affil    = "Postdoc, Stats"
     advisors = "Michael Jordan"
 >}}
 
 {{<student-card
     name     = "Shengaho Yang"
     url      = ""
-    affil    = "Postdoc, Stat"
+    affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
 

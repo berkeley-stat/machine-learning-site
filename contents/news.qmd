@@ -5,20 +5,13 @@
     <!-- - Nika Haghtalab: Thursdays at 10am (contact Nika to find location). 
     - Jiantao Jiao: Mondays at 4:30pm in Cory 258.
     - Michael Jordan: Mondays at 11:30am in Soda 510.
-    - Michael Mahoney: Thursdays at 2pm in Soda 465H.
-    - Bin Yu: Wednesday at 9:30am in Evans 1011
     - Simons ML reading group: Mondays at 2pm in Calvin Lab 116.
     -->
+    - Michael Mahoney: please contact directly.
     - Ryan Tibshirani: Tuesdays at 1pm in Gateway 3355.
+    - Bin Yu: Wednesdays at 9:30am in Gateway 3355.
     
-- Peter Bartlett will give a plenary lecture at International Congress of 
-  Mathematicians ([ICM](https://www.icm2026.org/)) in Philadelphia in July 2026.
 
-- [Tom Mitchell](https://www.cs.cmu.edu/~tom/) gave a special talk on the
-  History of Machine Learning on March 3, 2026 at 4pm in Evans 1011.
-  [[Podcast](https://digitaleconomy.stanford.edu/machine-learning-how-did-we-get-here/)]
+- Bin Yu is leading efforts to organize the Simons Institute Workshop on AI Risk, Evaluation and Governance (Spring, 2027).
+- Bin Yu is co-chairing the joint tenure track search between Statistics and EECS.
 
-- Bin Yu gave the opening plenary talk at the International Conference on 
-  Statistics and Data Science ([ICSDS](https://sites.google.com/view/ims-icsds2025/))
-  in December 2025 in Seville, Spain.
-  [[Slides](https://binyu.stat.berkeley.edu/slides/ICSDS25-BinYu.pdf)]

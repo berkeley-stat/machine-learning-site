@@ -26,7 +26,7 @@
 {{<student-card
     name     = "Erez Buchweitz"
     url      = ""
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Ryan Tibshirani"
 >}}
 
@@ -61,7 +61,7 @@
 {{<student-card
     name     = "Tianyu Guo"
     url      = "https://guotianyu2000.github.io/"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
 >}}
 
@@ -83,13 +83,6 @@
     name     = "Hao Huang"
     url      = ""
     affil    = "Master's, Eng"
-    advisors = "Bin Yu"
->}}
-
-{{<student-card
-    name     = "Yaxuan Huang"
-    url      = "https://imyaxuan.github.io"
-    affil    = "PhD, Stat"
     advisors = "Bin Yu"
 >}}
 
@@ -129,16 +122,9 @@
 >}}
 
 {{<student-card
-    name     = "Antoine Luciano"
-    url      = "https://sites.google.com/view/aluciano"
-    affil    = "Visiting Scholar, Stat"
-    advisors = "Ryan Giordano"
->}}
-
-{{<student-card
     name     = "Drew Nguyen"
     url      = "https://drewtnguyen.github.io/"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Will Fithian<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
@@ -159,7 +145,7 @@
 {{<student-card
     name     = "Anthony Ozerov"
     url      = "https://aozerov.com/"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Fernando Pérez<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
 
@@ -180,14 +166,14 @@
 {{<student-card
     name     = "Zach Rewolinski"
     url      = "https://www.zachrewolinski.com/"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Bin Yu"
 >}}
 
 {{<student-card
     name     = "Sean Richardson"
     url      = ""
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Ryan Giordano"
 >}}
 
@@ -195,7 +181,7 @@
 {{<student-card
     name     = "João Vitor Romano"
     url      = ""
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Ryan Tibshirani"
 >}}
 
@@ -210,21 +196,21 @@
 {{<student-card
     name     = "Lucas Schwengber"
     url      = "https://lucas-schwengber.github.io/"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Ryan Giordano"
 >}}
 
 {{<student-card
     name     = "Annie Ulichney"
     url      = "https://aulichney.github.io/"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
     name     = "Anqi Wang"
     url      = "https://statistics.berkeley.edu/people/anqi-wang"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Bin Yu"
 >}}
 
@@ -245,7 +231,7 @@
 {{<student-card
     name     = "Xuelin Yang"
     url      = "http://xyang23.github.io"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Guido Imbens<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
@@ -259,7 +245,7 @@
 {{<student-card
     name     = "Ruiqi Zhang"
     url      = "https://rqzhangberkeley.github.io/"
-    affil    = "PhD, Stat"
+    affil    = "PhD, Stats"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
 >}}
 

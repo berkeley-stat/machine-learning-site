@@ -13,35 +13,77 @@
     name        = "Tiffany Ding"
     url         = ""
     position    = "Member of Technical Staff @ Simile"
-    year = "PhD 2026"
+    year = "PhD Stats 2026"
 >}}
 
 {{<alumni-card
     name        = "Jeremy Goldwasser"
     url         = ""
     position    = "Research Scientist @ BlackRock AI Lab"
-    year = "PhD 2026"
+    year = "PhD Stats 2026"
 >}}
 
 {{<alumni-card
     name        = "Seunghoon Paik"
-    url         = "https://statistics.berkeley.edu"
+    url         = ""
     position    = "@ Two Sigma"
-    year = "PhD 2026"
+    year = "PhD Stats 2026"
 >}}
 
 {{<alumni-card
     name        = "Hyunsuk Kim"
     url         = ""
     position    = "Quantitative Researcher @ Jump Trading"
-    year = "PhD 2026"
+    year = "PhD Stats 2026"
 >}}
 
 {{<alumni-card
     name        = "Licong Lin"
     url         = "https://licong-lin.github.io"
     position    = "Assistant Professor of Statistics and Data Science @ Cornell University"
-    year = "PhD 2026"
+    year = "PhD Stats 2026"
+>}}
+
+{{<alumni-card
+    name        = "Yaxuan Huang"
+    url         = "https://imyaxuan.github.io"
+    position    = "@ Cubist"
+    year = "PhD Stats 2026"
+>}}
+
+{{<alumni-card
+    name        = "Austin Zane"
+    url         = ""
+    position    = "@ Google"
+    year = "PhD Stats 2026"
+>}}
+
+{{<alumni-card
+    name        = "Chengzhong Ye"
+    url         = ""
+    position    = "Postdoc @ Bakar Computational Biomedicine Initiative (BCBI), CDSS"
+    year = "PhD Stats 2026"
+>}}
+
+{{<alumni-card
+    name        = "David Deriso"
+    url         = ""
+    position    = ""
+    year = "PhD CS 2026"
+>}}
+
+{{<alumni-card
+    name        = "Jakob Heiss"
+    url         = "https://sites.google.com/view/jakob-heiss"
+    position    = "Assistant Professor of Statistics and Operations Research @ University of Vienna"
+    year = "Postdoc 2026"
+>}}
+
+{{<alumni-card
+    name        = "Jingfeng Wu"
+    url         = "https://uuujf.github.io/"
+    position    = "Assistant Professor of Statistics @ UC Berkeley"
+    year = "Postdoc 2026"
 >}}
 
 :::

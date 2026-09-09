@@ -5,7 +5,7 @@
 {{<faculty-card
     name   = "Peter Bartlett"
     url    = "https://www.stat.berkeley.edu/~bartlett/"
-    affil  = "Professor of Graduate School, Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Google and Simons"
+    affil  = "Professor of Graduate School, Stats and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Google and Simons"
 >}}
 
 {{<faculty-card
@@ -23,19 +23,19 @@
 {{<faculty-card
     name   = "Jiantao Jiao"
     url    = "https://people.eecs.berkeley.edu/~jiantao/"
-    affil  = "Assistant Professor of EECS and Stat<br style='display: block; margin-bottom: -0.5em; content:'';'>NVIDIA"
+    affil  = "Assistant Professor of EECS and Stats<br style='display: block; margin-bottom: -0.5em; content:'';'>NVIDIA"
 >}}
 
 {{<faculty-card
     name   = "Michael Jordan"
     url    = "https://people.eecs.berkeley.edu/~jordan/"
-    affil  = "Professor of Graduate School, Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Inria Paris"
+    affil  = "Professor of Graduate School, Stats and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Inria Paris"
 >}}
 
 {{<faculty-card
     name   = "Jason Lee"
     url    = "https://jasondlee88.github.io/"
-    affil  = "Associate Professor of Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Simons"
+    affil  = "Associate Professor of Stats and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Simons"
 >}}
 
 {{<faculty-card
@@ -47,7 +47,7 @@
 {{<faculty-card
     name   = "Song Mei"
     url    = "https://www.stat.berkeley.edu/~songmei/"
-    affil  = "Assistant Professor of Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>OpenAI"
+    affil  = "Assistant Professor of Stats and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>OpenAI"
 >}}
 
 {{<faculty-card
@@ -59,7 +59,7 @@
 {{<faculty-card
     name   = "Jacob Steinhardt"
     url    = "https://jsteinhardt.stat.berkeley.edu/"
-    affil  = "Associate Professor of Stat and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Transluce"
+    affil  = "Associate Professor of Stats and EECS<br style='display: block; margin-bottom: -0.5em; content:'';'>Transluce"
 >}}
 
 
@@ -72,7 +72,7 @@
 {{<faculty-card
     name   = "Bin Yu"
     url    = "https://binyu.stat.berkeley.edu"
-    affil  = "Professor of Stat, EECS, and CCB<br style='display: block; margin-bottom: -0.5em; content:'';'>Simons"
+    affil  = "Professor of Stats, EECS, and CCB<br style='display: block; margin-bottom: -0.5em; content:'';'>Simons"
 >}}
 
 {{<faculty-card
