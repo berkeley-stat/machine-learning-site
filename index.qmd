@@ -1,6 +1,6 @@
 ---
-pagetitle: "Berkeley Stat ML"
-title: "Berkeley Statistical Machine Learning"
+pagetitle: "Berkeley StatML"
+title: "Berkeley Statistical Machine Learning Community"
 ---
 
 <!-- ::: {#buttons} ::: -->

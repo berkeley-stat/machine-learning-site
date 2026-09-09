@@ -11,21 +11,21 @@
 
 {{<alumni-card
     name        = "Tiffany Ding"
-    url         = ""
+    url         = "https://tiffanyding.github.io/"
     position    = "Member of Technical Staff @ Simile"
     year = "PhD Stats 2026"
 >}}
 
 {{<alumni-card
     name        = "Jeremy Goldwasser"
-    url         = ""
+    url         = "https://jeremy-goldwasser.github.io/"
     position    = "Research Scientist @ BlackRock AI Lab"
     year = "PhD Stats 2026"
 >}}
 
 {{<alumni-card
     name        = "Seunghoon Paik"
-    url         = ""
+    url         = "https://seunghoonpaik.com/"
     position    = "@ Two Sigma"
     year = "PhD Stats 2026"
 >}}
@@ -40,7 +40,7 @@
 {{<alumni-card
     name        = "Licong Lin"
     url         = "https://licong-lin.github.io"
-    position    = "Assistant Professor of Statistics and Data Science @ Cornell University"
+    position    = "Assistant Professor of Statistics and Data Science @ Cornell University (from 2027)"
     year = "PhD Stats 2026"
 >}}
 
@@ -83,6 +83,27 @@
     name        = "Jingfeng Wu"
     url         = "https://uuujf.github.io/"
     position    = "Assistant Professor of Statistics @ UC Berkeley"
+    year = "Postdoc 2026"
+>}}
+
+{{<alumni-card
+    name        = "Ishaq Aden-Ali"
+    url         = "https://ishaqadenali.github.io"
+    position    = ""
+    year = "PhD EECS 2026"
+>}}
+
+{{<alumni-card
+    name        = "Ruiqi Zhang"
+    url         = "https://rqzhangberkeley.github.io/"
+    position    = "Quantitative Researcher @ Citadel Securities"
+    year = "PhD Stats 2026"
+>}}
+
+{{<alumni-card
+    name        = "Linda Cai"
+    url         = "https://lindacai1997.github.io/"
+    position    = "Member of Technical Staff @ Axiom Bio"
     year = "Postdoc 2026"
 >}}
 

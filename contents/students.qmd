@@ -3,13 +3,6 @@
 ::: {.grid}
 
 {{<student-card
-    name     = "Ishaq Aden-Ali"
-    url      = "https://ishaqadenali.github.io"
-    affil    = "PhD, EECS"
-    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Jelani Nelson"
->}}
-
-{{<student-card
     name     = "Nivasini Ananthakrishnan"
     url      = "https://nivasini.github.io/"
     affil    = "PhD, EECS"
@@ -18,7 +11,7 @@
 
 {{<student-card
     name     = "Mark Bedaywi"
-    url      = ""
+    url      = "https://markbedaywi.ca/"
     affil    = "PhD, EECS"
     advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Stuart Russell"
 >}}
@@ -90,7 +83,7 @@
     name     = "Haozhe Jiang"
     url      = "https://astro-eric.github.io"
     affil    = "PhD, EECS"
-    advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Jiantao Jiao"
+    advisors = "Nika Haghtalab&nbsp;&nbsp;Jiantao Jiao<br style='display: block; margin-bottom: -0.5em; content:'';'>Pieter Abbeel"
 >}}
 
 {{<student-card
@@ -109,7 +102,7 @@
 
 {{<student-card
     name     = "Brian Lee"
-    url      = "https://sites.google.com/berkeley.edu/blee"
+    url      = "https://bl-ee.github.io/"
     affil    = "PhD, EECS"
     advisors = "Nika Haghtalab<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
@@ -172,7 +165,7 @@
 
 {{<student-card
     name     = "Sean Richardson"
-    url      = ""
+    url      = "https://smrichardson.github.io/"
     affil    = "PhD, Stats"
     advisors = "Ryan Giordano"
 >}}
@@ -216,7 +209,7 @@
 
 {{<student-card
     name     = "Zixuan Wang"
-    url      = ""
+    url      = "https://zixuan-wang-dlt.github.io/"
     affil    = "PhD, EECS"
     advisors = "Jason Lee"
 >}}
@@ -240,13 +233,6 @@
     url      = "https://redwood.berkeley.edu/people/zeyu-yun/"
     affil    = "PhD, EECS"
     advisors = "Bruno Olshausen<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
->}}
-
-{{<student-card
-    name     = "Ruiqi Zhang"
-    url      = "https://rqzhangberkeley.github.io/"
-    affil    = "PhD, Stats"
-    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
 >}}
 
 {{<student-card

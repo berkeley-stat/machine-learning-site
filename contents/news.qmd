@@ -1,6 +1,6 @@
 ## News 
 
-- Current semester (Fall 2026) group meetings listed below. Everyone is 
+**Group meetings** (Fall 2026) listed below. Everyone is 
   welcome! But please send an email first if you're a new participant.
     <!-- - Nika Haghtalab: Thursdays at 10am (contact Nika to find location). 
     - Jiantao Jiao: Mondays at 4:30pm in Cory 258.
@@ -10,7 +10,8 @@
     - Michael Mahoney: please contact directly.
     - Ryan Tibshirani: Tuesdays at 1pm in Gateway 3355.
     - Bin Yu: Wednesdays at 9:30am in Gateway 3355.
-    
+
+<br>
 
 - Bin Yu is leading efforts to organize the Simons Institute Workshop on AI Risk, Evaluation and Governance (Spring, 2027).
 - Bin Yu is co-chairing the joint tenure track search between Statistics and EECS.

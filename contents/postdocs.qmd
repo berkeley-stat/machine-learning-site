@@ -4,7 +4,7 @@
 
 {{<student-card
     name     = "Siavash Ameli"
-    url      = "https://ameli.github.io/"
+    url      = ""
     affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
@@ -31,13 +31,6 @@
 >}}
 
 {{<student-card
-    name     = "Linda Cai"
-    url      = "https://lindacai1997.github.io/"
-    affil    = "Postdoc, EECS"
-    advisors = "Michael Jordan"
->}}
-
-{{<student-card
     name     = "Gabriel Clara"
     url      = "https://gclara.gitlab.io"
     affil    = "Postdoc, Simons"
@@ -60,7 +53,7 @@
 
 {{<student-card
     name     = "Avrajit Ghosh"
-    url      = "https://sites.google.com/view/avrajitghosh"
+    url      = "https://avra98.github.io/"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
@@ -94,7 +87,7 @@
 >}}
 
 {{<student-card
-    name     = "Max Meinichenko"
+    name     = "Maksim Melnichenko"
     url      = ""
     affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
@@ -102,7 +95,7 @@
 
 {{<student-card
     name     = "Raphael Meyer"
-    url      = ""
+    url      = "https://ram900.com/"
     affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
@@ -116,7 +109,7 @@
 
 {{<student-card
     name     = "Zhichao Wang"
-    url      = ""
+    url      = "https://zhichao-w.github.io/"
     affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
@@ -129,8 +122,8 @@
 >}}
 
 {{<student-card
-    name     = "Shengaho Yang"
-    url      = ""
+    name     = "Shenghao Yang"
+    url      = "https://cs.uwaterloo.ca/~s286yang/"
     affil    = "Postdoc, Stats"
     advisors = "Michael Mahoney"
 >}}
