@@ -1,0 +1,18 @@
+/* Sidebar tint, per theme (replaces the hardcoded light background). */
+body.quarto-light .sidebar {
+  background-color: #f9f9f9;
+}
+
+body.quarto-dark .sidebar {
+  background-color: #262626;
+}
+
+/* Person-card name underlines follow the text color instead of a fixed black. */
+.quarto-dark a[style*="text-decoration-color"] {
+  text-decoration-color: rgba(255, 255, 255, 0.35) !important;
+}
+
+/* Headshots are lit for a white page; take the edge off on dark. */
+.quarto-dark img[alt="Headshot"] {
+  filter: brightness(0.9);
+}
