@@ -1,16 +1,13 @@
 ## News 
 
-**Group meetings (Fall 2026)** listed below. Everyone is 
+**Group meetings (Fall 2026)**: times are listed below. Everyone is 
   welcome! But please send an email first if you're a new participant.
 
-- Michael Mahoney: please contact directly.
 - Ryan Tibshirani: Tuesdays at 1pm in Gateway 3355.
 - Bin Yu: Wednesdays at 9:30am in Gateway 3355.
 
-<div style="height: 0.75em;"></div>
+**Other news:**
 
-Other news:
-
-- Bin Yu is leading efforts to organize the Simons Institute Workshop on AI Risk, Evaluation and Governance (Spring, 2027).
-- Bin Yu is co-chairing the joint tenure track search between Statistics and EECS.
+- Bin Yu is leading efforts to organize the Simons Institute Workshop 
+  on AI Risk, Evaluation and Governance (Spring, 2027).
 
