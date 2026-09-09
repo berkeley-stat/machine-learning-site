@@ -12,7 +12,6 @@ website:
     style: docked
     logo: assets/logo/logo.png
     logo-alt: "Logo"
-    background: "#f9f9f9"
     contents:
       - href: index.qmd
         text: Home
@@ -29,6 +28,8 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: assets/styles.css
     toc: false # true
