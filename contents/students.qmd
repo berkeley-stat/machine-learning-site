@@ -68,7 +68,7 @@
 {{<student-card
     name     = "Hao Huang"
     url      = ""
-    affil    = "Master's, Eng"
+    affil    = "PhD, EECS"
     advisors = "Bin Yu"
 >}}
 
@@ -112,6 +112,13 @@
     url      = "https://aaron-jx-li.github.io/"
     affil    = "PhD, EECS"
     advisors = "Ion Stoica<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Louie McConnell"
+    url      = ""
+    affil    = "PhD, EECS"
+    advisors = "Bin Yu"
 >}}
 
 {{<student-card
@@ -185,6 +192,13 @@
     advisors = "Ryan Tibshirani"
 >}}
 
+
+{{<student-card
+    name     = "Nicolas Sanchez"
+    url      = ""
+    affil    = "PhD, Stats"
+    advisors = "Elizabeth Purdom<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
 
 {{<student-card
     name     = "Ricardo J. Sandoval"

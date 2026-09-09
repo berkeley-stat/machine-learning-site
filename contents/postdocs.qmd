@@ -108,6 +108,34 @@
 >}}
 
 {{<student-card
+    name     = "Maya Ramchandran"
+    url      = ""
+    affil    = "Postdoc, Simons"
+    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Bobby Shi"
+    url      = ""
+    affil    = "Postdoc, Simons"
+    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Katherine Tsai"
+    url      = ""
+    affil    = "Postdoc, Simons"
+    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
+
+{{<student-card
+    name     = "Nuri Mert Vural"
+    url      = "https://nurimertvural.github.io/"
+    affil    = "Postdoc, Simons"
+    advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+>}}
+
+{{<student-card
     name     = "Zhichao Wang"
     url      = "https://zhichao-w.github.io/"
     affil    = "Postdoc, Stats"
