@@ -408,7 +408,7 @@ Nika Haghtalab<br style="display: block; margin-bottom: -0.5em; content:" ';'=""
 <br><span style="font-size: 0.7em; font-weight: 300;">
 PhD, EECS
 <br>
-Jiantao Jiao&nbsp;&nbsp;Jason Lee<br style="display: block; margin-bottom: -0.5em; content:" ';'="">Song Mei
+J. Jiao&nbsp;&nbsp;J. Lee<br style="display: block; margin-bottom: -0.5em; content:" ';'="">Song Mei
 </span>
 </div>
 </div>
@@ -520,7 +520,7 @@ Ben Recht
 <br><span style="font-size: 0.7em; font-weight: 300;">
 PhD, EECS
 <br>
-Nika Haghtalab&nbsp;&nbsp;Jiantao Jiao<br style="display: block; margin-bottom: -0.5em; content:" ';'="">Pieter Abbeel
+N. Haghtalab&nbsp;&nbsp;J. Jiao<br style="display: block; margin-bottom: -0.5em; content:" ';'="">Pieter Abbeel
 </span>
 </div>
 </div>
@@ -616,7 +616,7 @@ Bin Yu
 <br><span style="font-size: 0.7em; font-weight: 300;">
 PhD, EECS
 <br>
-Gopala Anumanchipalli<br style="display: block; margin-bottom: -0.5em; content:" ';'="">Bin Yu
+G. Anumanchipalli<br style="display: block; margin-bottom: -0.5em; content:" ';'="">Bin Yu
 </span>
 </div>
 </div>
@@ -948,6 +948,41 @@ Nilah Ioannidis<br style="display: block; margin-bottom: -0.5em; content:" ';'="
 </section>
 
 </main> <!-- /main -->
+<script>
+  // Relocate Quarto's built-in color-scheme toggle out of the sidebar into a
+  // fixed top-right button, and give it a visible label. Moving the original
+  // element (rather than adding a second one) keeps Quarto's own state
+  // handling -- the .alternate class it toggles -- working untouched.
+  (() => {
+    const place = () => {
+      const toggle = document.querySelector('.quarto-color-scheme-toggle');
+      if (!toggle || document.getElementById('dark-mode-toggle-holder')) return;
+
+      const slot = toggle.closest('.sidebar-tools-main');
+
+      const label = document.createElement('span');
+      label.className = 'dark-mode-toggle-label';
+      label.textContent = 'Dark mode';
+      toggle.appendChild(label);
+
+      const holder = document.createElement('div');
+      holder.id = 'dark-mode-toggle-holder';
+      holder.appendChild(toggle);
+      document.body.appendChild(holder);
+
+      // The sidebar slot the toggle came from, now that nothing else uses it.
+      if (slot && slot.childElementCount === 0) {
+        slot.remove();
+      }
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', place);
+    } else {
+      place();
+    }
+  })();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
