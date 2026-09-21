@@ -75,7 +75,7 @@
 {{<alumni-card
     name        = "Jakob Heiss"
     url         = "https://sites.google.com/view/jakob-heiss"
-    position    = "Asst. Prof. of Statistics & OR @ U Vienna"
+    position    = "Asst. Prof. of Computational Statistics & Data Analysis @ U Vienna"
     year = "Postdoc 2026"
 >}}
 
