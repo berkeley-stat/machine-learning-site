@@ -128,4 +128,32 @@
     year = "Postdoc 2026"
 >}}
 
+{{<alumni-card
+    name        = "Paula Gradu"
+    url         = "https://paula-gradu.github.io"
+    position    = ""
+    year = "PhD EECS 2026"
+>}}
+
+{{<alumni-card
+    name        = "Tianyu Guo"
+    url         = "https://guotianyu2000.github.io/"
+    position    = ""
+    year = "PhD Stats 2026"
+>}}
+
+{{<alumni-card
+    name        = "Baihe Huang"
+    url         = ""
+    position    = ""
+    year = "PhD EECS 2026"
+>}}
+
+{{<alumni-card
+    name        = "Ezinne Nwankwo"
+    url         = "https://www.ezinnenwa.com"
+    position    = ""
+    year = "PhD EECS 2026"
+>}}
+
 :::

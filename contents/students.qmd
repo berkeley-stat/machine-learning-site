@@ -38,31 +38,10 @@
 >}}
 
 {{<student-card
-    name     = "Paula Gradu"
-    url      = "https://paula-gradu.github.io"
-    affil    = "PhD, EECS"
-    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Ben Recht"
->}}
-
-{{<student-card
-    name     = "Tianyu Guo"
-    url      = "https://guotianyu2000.github.io/"
-    affil    = "PhD, Stats"
-    advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
->}}
-
-{{<student-card
     name     = "Xinyan Hu"
     url      = ""
     affil    = "PhD, EECS"
     advisors = "Michael Jordan<br style='display: block; margin-bottom: -0.5em; content:'';'>Jacob Steinhardt"
->}}
-
-{{<student-card
-    name     = "Baihe Huang"
-    url      = ""
-    affil    = "PhD, EECS"
-    advisors = "Michael Jordan"
 >}}
 
 {{<student-card
@@ -133,13 +112,6 @@
     url      = "https://drewtnguyen.github.io/"
     affil    = "PhD, Stats"
     advisors = "Will Fithian<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
->}}
-
-{{<student-card
-    name     = "Ezinne Nwankwo"
-    url      = "https://www.ezinnenwa.com"
-    affil    = "PhD, EECS"
-    advisors = "Amanda Coston<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
 >}}
 
 {{<student-card
