@@ -24,6 +24,13 @@
 >}}
 
 {{<student-card
+    name     = "Mert Cemri"
+    url      = "https://mert-cemri.github.io/"
+    affil    = "PhD, EECS"
+    advisors = "A. Dimakis&nbsp;&nbsp;K. Ramchandran<br style='display: block; margin-bottom: -0.5em; content:'';'>Ion Stoica"
+>}}
+
+{{<student-card
     name     = "Jessica Dai"
     url      = "https://www.jessicad.ai/"
     affil    = "PhD, EECS"
@@ -31,10 +38,24 @@
 >}}
 
 {{<student-card
+    name     = "Josh Davis"
+    url      = "https://jxshdavis.github.io/"
+    affil    = "PhD, Stats"
+    advisors = "Nikita Zhivotovskiy"
+>}}
+
+{{<student-card
     name     = "Hengyu Fu"
     url      = "https://hengyuf.github.io/"
     affil    = "PhD, EECS"
     advisors = "J. Jiao&nbsp;&nbsp;J. Lee<br style='display: block; margin-bottom: -0.5em; content:'';'>Song Mei"
+>}}
+
+{{<student-card
+    name     = "Yihan Geng"
+    url      = "https://yihan04.github.io/"
+    affil    = "PhD, EECS"
+    advisors = "Venkatesan Guruswami<br style='display: block; margin-bottom: -0.5em; content:'';'>Jiantao Jiao"
 >}}
 
 {{<student-card
@@ -87,6 +108,13 @@
 >}}
 
 {{<student-card
+    name     = "Jacob Leung"
+    url      = ""
+    affil    = "Undergrad, BAIR"
+    advisors = "Jiantao Jiao"
+>}}
+
+{{<student-card
     name     = "Aaron J. Li"
     url      = "https://aaron-jx-li.github.io/"
     affil    = "PhD, EECS"
@@ -94,17 +122,24 @@
 >}}
 
 {{<student-card
-    name     = "Louie McConnell"
-    url      = ""
+    name     = "Kunjun Li"
+    url      = "https://kunjun-li.github.io/"
     affil    = "PhD, EECS"
-    advisors = "Bin Yu"
+    advisors = "Jiantao Jiao<br style='display: block; margin-bottom: -0.5em; content:'';'>Kannan Ramchandran"
 >}}
 
 {{<student-card
-    name     = "Robin Netzorg"
-    url      = "https://robbizorg.github.io/"
+    name     = "Boyi Lin"
+    url      = "https://www.lambertlin.com/"
+    affil    = "Visiting Student, EECS"
+    advisors = "Jiantao Jiao"
+>}}
+
+{{<student-card
+    name     = "Louis McConnell"
+    url      = ""
     affil    = "PhD, EECS"
-    advisors = "G. Anumanchipalli<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
+    advisors = "Bin Yu"
 >}}
 
 {{<student-card
@@ -150,14 +185,6 @@
 >}}
 
 {{<student-card
-    name     = "Sean Richardson"
-    url      = "https://smrichardson.github.io/"
-    affil    = "PhD, Stats"
-    advisors = "Ryan Giordano"
->}}
-
-
-{{<student-card
     name     = "João Vitor Romano"
     url      = ""
     affil    = "PhD, Stats"
@@ -194,6 +221,13 @@
 >}}
 
 {{<student-card
+    name     = "Rudransh Singh"
+    url      = ""
+    affil    = "Undergrad, EECS"
+    advisors = "Jiantao Jiao"
+>}}
+
+{{<student-card
     name     = "Annie Ulichney"
     url      = "https://aulichney.github.io/"
     affil    = "PhD, Stats"
@@ -226,6 +260,13 @@
     url      = "http://xyang23.github.io"
     affil    = "PhD, Stats"
     advisors = "Guido Imbens<br style='display: block; margin-bottom: -0.5em; content:'';'>Michael Jordan"
+>}}
+
+{{<student-card
+    name     = "Yunzhen Yao"
+    url      = "https://implicitvalue.github.io/"
+    affil    = "Visiting Student, EECS"
+    advisors = "Jiantao Jiao"
 >}}
 
 {{<student-card

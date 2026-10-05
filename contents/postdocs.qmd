@@ -115,15 +115,22 @@
 >}}
 
 {{<student-card
+    name     = "Dhruv Rohatgi"
+    url      = "https://www.mit.edu/~drohatgi/"
+    affil    = "Postdoc, Stats"
+    advisors = "Jason Lee"
+>}}
+
+{{<student-card
     name     = "Bobby Shi"
-    url      = ""
+    url      = "https://rhshi.github.io/"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}
 
 {{<student-card
     name     = "Katherine Tsai"
-    url      = ""
+    url      = "https://sites.google.com/view/katherinetsai"
     affil    = "Postdoc, Simons"
     advisors = "Peter Bartlett<br style='display: block; margin-bottom: -0.5em; content:'';'>Bin Yu"
 >}}

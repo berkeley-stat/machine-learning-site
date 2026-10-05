@@ -156,4 +156,18 @@
     year = "PhD EECS 2026"
 >}}
 
+{{<alumni-card
+    name        = "Robin Netzorg"
+    url         = "https://robbizorg.github.io/"
+    position    = ""
+    year = "PhD EECS 2026"
+>}}
+
+{{<alumni-card
+    name        = "Hanlin Zhu"
+    url         = "https://hanlinzhu.com/"
+    position    = "Member of Technical Staff @ OpenAI"
+    year = "PhD EECS 2026"
+>}}
+
 :::
